@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alex.dele.o.o) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandru-delegeanu) 
-[![Spotify](https://img.shields.io/badge/-Spotify-1DB954?logo=spotify&logoColor=white&style=for-the-badge)](https://open.spotify.com/playlist/5YYqRKbgTKXAcP91Tv8r1Y?si=b957d0eb82024411)
+[![Spotify](https://img.shields.io/badge/-Spotify-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5YYqRKbgTKXAcP91Tv8r1Y?si=b957d0eb82024411)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
