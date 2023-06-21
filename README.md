@@ -1,13 +1,33 @@
-# 💫 About Me:
-👨‍💻 I'm a passionate IT person who likes to see how his ideas come to life.<br>👾 Super nerd who enjoys to customize all of the development environment.<br>👀  Interested in learning new technologies and tools if the need arises.<br>
+<h1 align="center">💫 About Me</h1>
 
+<div id="header" align="center">
+    <div>
+      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+    </div>
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alex.dele.o.o) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandru-delegeanu) 
-[![Spotify](https://img.shields.io/badge/-Spotify-1DB954?logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5YYqRKbgTKXAcP91Tv8r1Y?si=b957d0eb82024411)
+<div id="links" align="center">
+    <a href="">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="insta-badge"/>
+    </a>
+    <a href="">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="linkedin-badge"/>
+    </a>
+    <a href="">
+        <img src="https://img.shields.io/badge/-Spotify-1DB954?logo=spotify&logoColor=white" alt="spotify-badge"/>
+    </a>
+</div>
 
-# 💻 Tech Stack:
+<div align="center">
+    👨‍💻 I'm a passionate IT person who likes to see how his ideas come to life.<br>
+    👾 Super nerd who enjoys to customize all of the development environment.<br>
+    👀 Interested in learning new technologies and tools if the need arises.<br>
+</div>
+<br>
+
+<h2 align="center">💻 Tech Stack</h2>
+<hr>
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -46,4 +66,4 @@
 ![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-F80000?logo=oracle&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
----
+<hr>
