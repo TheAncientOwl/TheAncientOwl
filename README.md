@@ -7,7 +7,7 @@
 </div>
 
 <div id="links" align="center">
-    <a href="https://instagram.com/alex.dele.o.o)">
+    <a href="https://instagram.com/alex.dele.o.o">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="insta-badge"/>
     </a>
     <a href="https://linkedin.com/in/alexandru-delegeanu">
