@@ -1,10 +1,8 @@
 <div id="header" align="center">
-    <div>
-      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-    </div>
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="links" align="center">
+<div id="links" align="center" style="margin: 15px auto 0px auto;">
     <a href="https://instagram.com/alex.dele.o.o">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="insta-badge"/>
     </a>
@@ -19,17 +17,23 @@
 
 <h1 align="center">💫 About Me</h1>
 
-<div align="center">
-    👨‍💻 I'm a passionate IT person who likes to see how his ideas come to life.<br>
-    👾 Super nerd who enjoys to customize all of the development environment.<br>
-    👀 Interested in learning new technologies and tools if the need arises.<br>
+<div align="center" style="display: flex; flex-direction: column; gap: 3px;">
+    <div>
+        👨‍💻 I'm a passionate IT person who likes to see how his ideas come to life.
+    </div>
+    <div>
+    </div>
+        👾 Super nerd who enjoys to customize all of the development environment.
+    <div>
+        👀 Interested in learning new technologies and tools if the need arises.
+    </div>
 </div>
 <br>
 
 <h2 align="center">💻 Tech Stack</h2>
 <hr>
 
-<div align="center">
+<div align="center" style="max-width: 65%; margin: 20px auto">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
