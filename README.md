@@ -48,6 +48,8 @@
     <img src="badges/bash.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
     <img src="badges/linux.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
     <img src="badges/ubuntu.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+    <img src="badges/powershell.svg" title="PowerShell" alt="PowerShell" width="40" height="40"/>&nbsp;
+    <img src="badges/windows-11.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
     <img src="badges/docker.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   </div>
 
@@ -59,6 +61,7 @@
     <img src="badges/react.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="badges/redux.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
     <img src="badges/materialui.svg" title="MaterialUI" alt="MaterialUI" width="40" height="40"/>&nbsp;
+    <img src="badges/react-router.svg" title="React Router" alt="React Router" width="40" height="40"/>&nbsp;
   </div>
 
   <div id="JavaScript-Node">
@@ -77,6 +80,7 @@
     <img src="badges/bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
     <img src="badges/bulma.svg" title="BulmaCSS" alt="BulmaCSS" width="40" height="40"/>&nbsp;
     <img src="badges/tailwindcss.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
+    <img src="badges/styled-components.svg" title="StyledComponents" alt="StyledComponents" width="40" height="40"/>&nbsp;
   </div>
 
   <div id="Python">
@@ -85,6 +89,7 @@
     <img src="badges/flask.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
     <img src="badges/numpy.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
     <img src="badges/pandas.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+    <img src="badges/scikit-learn.svg" title="SciKit-Learn" alt="SciKit-Learn" width="40" height="40"/>&nbsp;
   </div>
 
   <div id="C#">
@@ -109,7 +114,6 @@
     <img src="badges/android.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
   </div>
 </div>
-<!--  react router, styled components, scikit-learn, shell script, powershell-->
 
 <hr>
 
