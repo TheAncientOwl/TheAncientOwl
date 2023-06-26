@@ -36,6 +36,8 @@
 
 <div align="center" style="margin: 20px auto; display: flex; flex-direction: column; gap: 5px">
 
+  <h3>⚡️ Core</h3>
+
   <div id="C++">
     <img src="badges/c.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
     <img src="badges/cplusplus.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
@@ -50,7 +52,6 @@
     <img src="badges/ubuntu.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
     <img src="badges/powershell.svg" title="PowerShell" alt="PowerShell" width="40" height="40"/>&nbsp;
     <img src="badges/windows-11.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
-    <img src="badges/docker.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   </div>
 
   <div id="JavaScript-React">
@@ -63,6 +64,8 @@
     <img src="badges/materialui.svg" title="MaterialUI" alt="MaterialUI" width="40" height="40"/>&nbsp;
     <img src="badges/react-router.svg" title="React Router" alt="React Router" width="40" height="40"/>&nbsp;
   </div>
+
+  <h3>✨ Also Used</h3>
 
   <div id="JavaScript-Node">
     <img src="badges/nodejs.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
@@ -103,9 +106,10 @@
     <img src="badges/r.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
   </div>
   
-  <div id="Databases">
+  <div id="Databases&Docker">
     <img src="badges/mongodb.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
     <img src="badges/oracle.svg" title="OracleSQL" alt="OracleSQL" width="40" height="40"/>&nbsp;
+    <img src="badges/docker.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   </div>
 
   <div id="Java">
