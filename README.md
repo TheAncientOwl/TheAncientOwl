@@ -33,7 +33,9 @@
 <h2 align="center">💻 Tech Stack</h2>
 <hr>
 
-<div align="center" style="max-width: 350px; margin: 20px auto">
+<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/TheAncientOwl/TheAncientOwl-Styles/main/styles.css">
+
+<div align="center" class="js-stack">
   <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
