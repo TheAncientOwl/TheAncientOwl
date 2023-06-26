@@ -114,7 +114,8 @@
 
 <h2 align="center">🔥Stats</h2>
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=TheAncientOwl&theme=dark&date_format=M%20j%5B%2C%20Y%5D" title="GitHub Streak" alt="GitHub Streak"/>
+<div align="center" style="margin: 10px auto;">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=TheAncientOwl&theme=dark&date_format=M%20j%5B%2C%20Y%5D" title="GitHub Streak" alt="GitHub Streak"/>
+</div>
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheAncientOwl&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<hr>
