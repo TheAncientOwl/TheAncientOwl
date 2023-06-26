@@ -30,8 +30,9 @@
 </div>
 <br>
 
-<h2 align="center">💻 Tech Stack</h2>
 <hr>
+
+<h2 align="center">💻 Tech Stack</h2>
 
 <div align="center" style="margin: 20px auto; display: flex; flex-direction: column; gap: 5px">
 
