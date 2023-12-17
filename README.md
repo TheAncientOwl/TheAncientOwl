@@ -134,10 +134,10 @@
 
 <hr>
 
-<h2 align="center">💻 Work Machine</h2>
+<!-- <h2 align="center">💻 Work Machine</h2>
 
 <div align="center" style="margin: 10px auto;">
   <img src="PC-Stats.png" width="450" style="border-radius: 10px">
 </div>
 
-<hr>
+<hr> -->
