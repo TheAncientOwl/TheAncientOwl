@@ -47,7 +47,7 @@
     <img src="badges/c.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
     <img src="badges/cplusplus.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
     <img src="badges/cmake.svg" title="CMake" alt="CMake" width="40" height="40"/>&nbsp;
-    <img src="badges/gcc.svg" title="GCC" alt="GCC" width="40" height="40"/>&nbsp;
+    <img src="badges/unit-testing.svg" title="Unit Testing with Google Test" alt="Unit Testing with Google Test" width="40" height="40"/>&nbsp;
   </div>
 
   <div id="Linux-CLI">
