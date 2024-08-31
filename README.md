@@ -53,6 +53,7 @@
   <div id="Linux-CLI">
     <img src="badges/git.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
     <img src="badges/bash.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+    <img src="badges/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="badges/linux.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
     <img src="badges/ubuntu.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
     <img src="badges/powershell.svg" title="PowerShell" alt="PowerShell" width="40" height="40"/>&nbsp;
