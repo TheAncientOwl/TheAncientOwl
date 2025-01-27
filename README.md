@@ -47,7 +47,15 @@
     <img src="badges/c.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
     <img src="badges/cplusplus.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
     <img src="badges/cmake.svg" title="CMake" alt="CMake" width="40" height="40"/>&nbsp;
-    <img src="badges/unit-testing.svg" title="Unit Testing with Google Test" alt="Unit Testing with Google Test" width="40" height="40"/>&nbsp;
+    <img src="badges/cpp-unit-testing.svg" title="Unit Testing with Google Test" alt="Unit Testing with Google Test" width="40" height="40"/>&nbsp;
+  </div>
+
+  <div id="Java/Minecraft/Spigot">
+    <img src="badges/java.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="badges/java-unit-testing.svg" title="Unit Testing with JUnit" alt="Unit Testing with JUnit" width="40" height="40"/>&nbsp;
+    <img src="badges/mockito.svg" title="Unit testing with Mockito" alt="Mockito" width="40" height="40"/>&nbsp;
+    <img src="badges/papermc.svg" title="PaperMC" alt="PaperMC" width="40" height="40"/>&nbsp;
+    <img src="badges/minecraft.svg" title="Minecraft" alt="Minecraft" width="40" height="40"/>&nbsp;
   </div>
 
   <div id="Linux-CLI">
