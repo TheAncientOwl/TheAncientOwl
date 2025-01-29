@@ -147,7 +147,7 @@
             <img src="badges/minecraft.svg" title="Minecraft" alt="Minecraft" width="40" height="40"/>
         </div>
         <h3>📌 Summary</h3>
-        <p>✨ Building plugins was never easier!<br>🪶 Feather Project is designed to simplify the development of <a href="https://papermc.io/">Paper-Spigot plugins</a> for <a href="https://www.minecraft.net/en-us">Minecraft servers</a> providing seamless integration tools.<br>🛠️ The <a href="https://github.com/TheAncientOwl/feather-core">main plugin</a> is built using this <a href="https://github.com/TheAncientOwl/feather-toolkit">toolkit</a>, making plugin development more efficient and effective.
+        <p>✨ Building plugins was never easier!<br>🪶 Feather Project is designed to simplify the development of <a href="https://papermc.io/">Paper-Spigot plugins</a> for <a href="https://www.minecraft.net/en-us">Minecraft servers</a>.<br>🚀 It also offers smooth integration tools to enhance the development experience.<br>🛠️ The <a href="https://github.com/TheAncientOwl/feather-core">main plugin</a> is built using this <a href="https://github.com/TheAncientOwl/feather-toolkit">toolkit</a>, making plugin development more efficient and effective.
         </br>
     </div>
     <div id="lunar-db">
