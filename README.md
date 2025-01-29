@@ -1,3 +1,7 @@
+<head>
+  <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+</head>
+
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZkZDdtZnFqbDBjZmh4ZTNqZDZnd3NmOTU4cng5ZTloM3E2bHY3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350"/>
 </div>
@@ -37,100 +41,172 @@
 
 <hr>
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h1 align="center">🛠️ Tech Stack</h1>
 
 <div align="center" style="margin: 20px auto; display: flex; flex-direction: column; gap: 5px">
+    <h3>⚡️ Core</h3>
+    <div id="C++">
+        <img src="badges/c.svg" title="C" alt="C" width="40" height="40"/>
+        <img src="badges/cplusplus.svg" title="C++" alt="C++" width="40" height="40"/>
+        <img src="badges/cmake.svg" title="CMake" alt="CMake" width="40" height="40"/>
+        <img src="badges/cpp-unit-testing.svg" title="Unit Testing with Google Test" alt="Unit Testing with Google Test" width="40" height="40"/>
+    </div>
+    <div id="Java/Minecraft/Spigot">
+        <img src="badges/java.svg" title="Java" alt="Java" width="40" height="40"/>
+        <img src="badges/java-unit-testing.svg" title="Unit Testing with JUnit" alt="Unit Testing with JUnit" width="40" height="40"/>
+        <img src="badges/mockito.svg" title="Unit testing with Mockito" alt="Mockito" width="40" height="40"/>
+        <img src="badges/papermc.svg" title="PaperMC" alt="PaperMC" width="40" height="40"/>
+        <img src="badges/minecraft.svg" title="Minecraft" alt="Minecraft" width="40" height="40"/>
+    </div>
+    <div id="Linux-CLI">
+        <img src="badges/python.svg" title="Python" alt="Python" width="40" height="40"/>
+        <img src="badges/git.svg" title="Git" alt="Git" width="40" height="40"/>
+        <img src="badges/bash.svg" title="Bash" alt="Bash" width="40" height="40"/>
+        <img src="badges/linux.svg" title="Linux" alt="Linux" width="40" height="40"/>
+        <img src="badges/ubuntu.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
+        <img src="badges/powershell.svg" title="PowerShell" alt="PowerShell" width="40" height="40"/>
+        <img src="badges/windows-11.svg" title="Windows" alt="Windows" width="40" height="40"/>
+    </div>
+    <div id="JavaScript-React">
+        <img src="badges/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+        <img src="badges/typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
+        <img src="badges/html5.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
+        <img src="badges/css3.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
+        <img src="badges/react.svg" title="React" alt="React" width="40" height="40"/>
+        <img src="badges/redux.svg" title="Redux" alt="Redux" width="40" height="40"/>
+        <img src="badges/materialui.svg" title="MaterialUI" alt="MaterialUI" width="40" height="40"/>
+        <img src="badges/react-router.svg" title="React Router" alt="React Router" width="40" height="40"/>
+    </div>
+    <h3>✨ Also Used</h3>
+    <div id="JavaScript-Node">
+        <img src="badges/nodejs.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
+        <img src="badges/electron.svg" title="ElectronJS" alt="ElectronJS" width="40" height="40"/>
+        <img src="badges/express.svg" title="Express" alt="Express" width="40" height="40"/>
+        <img src="badges/threejs.svg" title="ThreeJS" alt="ThreeJS" width="40" height="40"/>
+        <img src="badges/npm.svg" title="NPM" alt="NPM" width="40" height="40"/>
+        <img src="badges/yarn.svg" title="Yarn" alt="Yarn" width="40" height="40"/>
+        <img src="badges/eslint.svg" title="Eslint" alt="Eslint" width="40" height="40"/>
+        <img src="badges/webpack.svg" title="Webpack" alt="Webpack" width="40" height="40"/>
+    </div>
+    <div id="Styles">
+        <img src="badges/sass.svg" title="Sass" alt="Sass" width="40" height="40"/>
+        <img src="badges/bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
+        <img src="badges/bulma.svg" title="BulmaCSS" alt="BulmaCSS" width="40" height="40"/>
+        <img src="badges/tailwindcss.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>
+        <img src="badges/styled-components.svg" title="StyledComponents" alt="StyledComponents" width="40" height="40"/>
+    </div>
+    <div id="Python">
+        <img src="badges/python.svg" title="Python" alt="Python" width="40" height="40"/>
+        <img src="badges/anaconda.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>
+        <img src="badges/flask.svg" title="Flask" alt="Flask" width="40" height="40"/>
+        <img src="badges/numpy.svg" title="NumPy" alt="NumPy" width="40" height="40"/>
+        <img src="badges/pandas.svg" title="Pandas" alt="Pandas" width="40" height="40"/>
+        <img src="badges/scikit-learn.svg" title="SciKit-Learn" alt="SciKit-Learn" width="40" height="40"/>
+    </div>
+    <div id="C#">
+        <img src="badges/csharp.svg" title="CSharp" alt="CSharp" width="40" height="40"/>
+        <img src="badges/unity.svg" title="Unity" alt="Unity" width="40" height="40"/>
+        <img src="badges/dotnetcore.svg" title=".Net Core" alt=".Net Core" width="40" height="40"/>
+    </div>
+    <div id="R&Matlab">
+        <img src="badges/matlab.svg" title="Matlab" alt="Matlab" width="40" height="40"/>
+        <img src="badges/r.svg" title="R" alt="R" width="40" height="40"/>
+    </div>
+    <div id="Databases&Docker">
+        <img src="badges/mongodb.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
+        <img src="badges/oracle.svg" title="OracleSQL" alt="OracleSQL" width="40" height="40"/>
+        <img src="badges/docker.svg" title="Docker" alt="Docker" width="40" height="40"/>
+    </div>
+    <div id="Java">
+        <img src="badges/java.svg" title="Java" alt="Java" width="40" height="40"/>
+        <img src="badges/kotlin.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>
+        <img src="badges/android.svg" title="Android" alt="Android" width="40" height="40"/>
+    </div>
+</div>
 
-  <h3>⚡️ Core</h3>
+<hr>
 
-  <div id="C++">
-    <img src="badges/c.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-    <img src="badges/cplusplus.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-    <img src="badges/cmake.svg" title="CMake" alt="CMake" width="40" height="40"/>&nbsp;
-    <img src="badges/cpp-unit-testing.svg" title="Unit Testing with Google Test" alt="Unit Testing with Google Test" width="40" height="40"/>&nbsp;
-  </div>
+<h1 align="center">🦉 Owl’s Workshop</h1>
 
-  <div id="Java/Minecraft/Spigot">
-    <img src="badges/java.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="badges/java-unit-testing.svg" title="Unit Testing with JUnit" alt="Unit Testing with JUnit" width="40" height="40"/>&nbsp;
-    <img src="badges/mockito.svg" title="Unit testing with Mockito" alt="Mockito" width="40" height="40"/>&nbsp;
-    <img src="badges/papermc.svg" title="PaperMC" alt="PaperMC" width="40" height="40"/>&nbsp;
-    <img src="badges/minecraft.svg" title="Minecraft" alt="Minecraft" width="40" height="40"/>&nbsp;
-  </div>
-
-  <div id="Linux-CLI">
-    <img src="badges/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="badges/git.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-    <img src="badges/bash.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-    <img src="badges/linux.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-    <img src="badges/ubuntu.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
-    <img src="badges/powershell.svg" title="PowerShell" alt="PowerShell" width="40" height="40"/>&nbsp;
-    <img src="badges/windows-11.svg" title="Windows" alt="Windows" width="40" height="40"/>&nbsp;
-  </div>
-
-  <div id="JavaScript-React">
-    <img src="badges/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="badges/typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-    <img src="badges/html5.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-    <img src="badges/css3.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-    <img src="badges/react.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="badges/redux.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
-    <img src="badges/materialui.svg" title="MaterialUI" alt="MaterialUI" width="40" height="40"/>&nbsp;
-    <img src="badges/react-router.svg" title="React Router" alt="React Router" width="40" height="40"/>&nbsp;
-  </div>
-
-  <h3>✨ Also Used</h3>
-
-  <div id="JavaScript-Node">
-    <img src="badges/nodejs.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-    <img src="badges/electron.svg" title="ElectronJS" alt="ElectronJS" width="40" height="40"/>&nbsp;
-    <img src="badges/express.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
-    <img src="badges/threejs.svg" title="ThreeJS" alt="ThreeJS" width="40" height="40"/>&nbsp;
-    <img src="badges/npm.svg" title="NPM" alt="NPM" width="40" height="40"/>&nbsp;
-    <img src="badges/yarn.svg" title="Yarn" alt="Yarn" width="40" height="40"/>&nbsp;
-    <img src="badges/eslint.svg" title="Eslint" alt="Eslint" width="40" height="40"/>&nbsp;
-    <img src="badges/webpack.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
-  </div>
-
-  <div id="Styles">
-    <img src="badges/sass.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-    <img src="badges/bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-    <img src="badges/bulma.svg" title="BulmaCSS" alt="BulmaCSS" width="40" height="40"/>&nbsp;
-    <img src="badges/tailwindcss.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
-    <img src="badges/styled-components.svg" title="StyledComponents" alt="StyledComponents" width="40" height="40"/>&nbsp;
-  </div>
-
-  <div id="Python">
-    <img src="badges/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="badges/anaconda.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
-    <img src="badges/flask.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-    <img src="badges/numpy.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
-    <img src="badges/pandas.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-    <img src="badges/scikit-learn.svg" title="SciKit-Learn" alt="SciKit-Learn" width="40" height="40"/>&nbsp;
-  </div>
-
-  <div id="C#">
-    <img src="badges/csharp.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
-    <img src="badges/unity.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
-    <img src="badges/dotnetcore.svg" title=".Net Core" alt=".Net Core" width="40" height="40"/>&nbsp;
-  </div>
-
-  <div id="R&Matlab">
-    <img src="badges/matlab.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
-    <img src="badges/r.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
-  </div>
-  
-  <div id="Databases&Docker">
-    <img src="badges/mongodb.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-    <img src="badges/oracle.svg" title="OracleSQL" alt="OracleSQL" width="40" height="40"/>&nbsp;
-    <img src="badges/docker.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  </div>
-
-  <div id="Java">
-    <img src="badges/java.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="badges/kotlin.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-    <img src="badges/android.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
-  </div>
+<div  align="center" style="margin: 20px auto; display: flex; flex-direction: column; gap: 5px;">
+    <div id="feather-project">
+        <h2>🪶 Feather Project</h2>
+        <div style="display:flex; gap:1em; justify-content:center; align-items:center">
+            <h3 style="margin:0;font-size:1.5em">📦</h3>
+            <a href="https://github.com/TheAncientOwl/feather-core">🪶 FeatherCore</a>
+            |
+            <a href="https://github.com/TheAncientOwl/feather-toolkit">🪶🛠️FeatherToolkit</a>
+            |
+            <a href="https://github.com/TheAncientOwl/quill">🪶📜 Quill</a>
+            <h3 style="margin:0;font-size:1.5em">📦</h3>
+        </div>
+        <h3>🛠️ Tech Stack</h3>
+        <div style="display:flex; gap:1em; justify-content:center;">
+            <img src="badges/java.svg" title="Java" alt="Java" width="40" height="40"/>
+            <img src="badges/java-unit-testing.svg" title="Unit Testing with JUnit" alt="Unit Testing with JUnit" width="40" height="40"/>
+            <img src="badges/mockito.svg" title="Unit testing with Mockito" alt="Mockito" width="40" height="40"/>
+            <img src="badges/papermc.svg" title="PaperMC" alt="PaperMC" width="40" height="40"/>
+            <img src="badges/minecraft.svg" title="Minecraft" alt="Minecraft" width="40" height="40"/>
+        </div>
+        <h3>📌 Summary</h3>
+        <p>🪶 Feather Project is designed to simplify the development of <a href="https://papermc.io/">Paper-Spigot plugins</a> for <a href="https://www.minecraft.net/en-us">Minecraft servers</a>.<br>✨ Building plugins was never easier with this toolkit, which simplifies the development process and provides seamless integration tools.<br>🛠️ The <a href="https://github.com/TheAncientOwl/feather-core">main plugin</a> is built using this <a href="https://github.com/TheAncientOwl/feather-toolkit">toolkit</a>, making plugin development more efficient and effective.
+        </br>
+    </div>
+    <div id="lunar-db">
+        <h2>🌙 Lunar DB</h2>
+        <div style="display:flex; gap:1em; justify-content:center; align-items:center">
+            <h3 style="margin:0;font-size:1.5em">📦</h3>
+            <a href="https://github.com/TheAncientOwl/lunardb">🌕 LunarDB</a>
+            |
+            <a href="https://github.com/TheAncientOwl/lunardb/blob/main/Moonlight.md">🌙 Moonlight</a>
+            |
+            <a href="https://github.com/TheAncientOwl/lunardb-js">🌕 LunarDB-JS</a>
+            |
+            <a href="https://github.com/TheAncientOwl/astro-huddle">🚀 AstroHuddle</a>
+            <h3 style="margin:0;font-size:1.5em">📦</h3>
+        </div>
+        <h3>🛠️ Tech Stack</h3> 
+        <div style="display:flex; gap:1em; justify-content:center;">
+            <img src="badges/cplusplus.svg" title="C++" alt="C++" width="40" height="40"/>
+            <img src="badges/cmake.svg" title="CMake" alt="CMake" width="40" height="40"/>
+            <img src="badges/cpp-unit-testing.svg" title="Unit Testing with Google Test" alt="Unit Testing with Google Test" width="40" height="40"/>
+            <img src="badges/html5.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
+            <img src="badges/css3.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
+            <img src="badges/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+        </div>
+        <h3>📌 Summary</h3>
+        <p>🌙 LunarDB is a database management system designed for flexibility and scalability developed as part of my <i>Master's Degree Project</i>.<br>🗂️ It offers versatile data handling, normalization options, high performance, and a developer-friendly API.<br>✨ It supports both structured and unstructured data, making it suitable for a wide range of applications.
+        </p>
+    </div>
+    <div id="mango-analysis">
+        <h2>🥭📊 Mango Analysis</h2>
+        <div style="display:flex; gap:1em; justify-content:center; align-items:center">
+            <h3 style="margin:0;font-size:1.5em">📦</h3>
+            <a href="https://github.com/TheAncientOwl/mango-analysis">🥭 MangoAnalysis</a>
+            <h3 style="margin:0;font-size:1.5em">📦</h3>
+        </div>
+        <h3>🛠️ Tech Stack</h3> 
+        <div style="display:flex; gap:1em; justify-content:center;margin-bottom:1em">
+            <img src="badges/python.svg" title="Python" alt="Python" width="40" height="40"/>
+            <img src="badges/anaconda.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>
+            <img src="badges/flask.svg" title="Flask" alt="Flask" width="40" height="40"/>
+            <img src="badges/numpy.svg" title="NumPy" alt="NumPy" width="40" height="40"/>
+            <img src="badges/pandas.svg" title="Pandas" alt="Pandas" width="40" height="40"/>
+            <img src="badges/scikit-learn.svg" title="SciKit-Learn" alt="SciKit-Learn" width="40" height="40"/>
+        </div>
+        <div style="display:flex; gap:1em; justify-content:center;">
+            <img src="badges/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+            <img src="badges/typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
+            <img src="badges/html5.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
+            <img src="badges/css3.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
+            <img src="badges/react.svg" title="React" alt="React" width="40" height="40"/>
+            <img src="badges/redux.svg" title="Redux" alt="Redux" width="40" height="40"/>
+            <img src="badges/materialui.svg" title="MaterialUI" alt="MaterialUI" width="40" height="40"/>
+        </div>
+        <h3>📌 Summary</h3>
+        <p>🗂️ MangoAnalysis is a data analysis tool for CSV databases, developed as part of my <i>Bachelor's Degree Project</i>.<br>📊 It features a user-friendly interface with powerful analysis techniques such as <a href="https://en.wikipedia.org/wiki/Principal_component_analysis">Principal Components Analysis</a>, <a href="https://en.wikipedia.org/wiki/Factor_analysis">Factor Analysis</a>, <a href="https://en.wikipedia.org/wiki/Regression_analysis">Regression Models</a>, and <a href="https://github.com/TheAncientOwl/mango-analysis?tab=readme-ov-file#-modules">more</a>.<br>🛠️ Built using React, Redux, and Python Flask, this cross-platform application allows users to explore, visualize, and interpret data to uncover valuable insights.<br>✨ Whether you're a researcher or analyst, MangoAnalysis helps you make informed decisions with ease.
+        </p>
+    </div>
 </div>
 
 <hr>
