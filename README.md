@@ -132,13 +132,11 @@
     <div id="feather-project">
         <h2>🪶 Feather Project</h2>
         <div style="display:flex; gap:1em; justify-content:center; align-items:center">
-            <h3 style="margin:0;font-size:1.5em">📦</h3>
             <a href="https://github.com/TheAncientOwl/feather-core">🪶 FeatherCore</a>
-            |
+            &nbsp;|&nbsp;
             <a href="https://github.com/TheAncientOwl/feather-toolkit">🪶🛠️FeatherToolkit</a>
-            |
+            &nbsp;|&nbsp;
             <a href="https://github.com/TheAncientOwl/quill">🪶📜 Quill</a>
-            <h3 style="margin:0;font-size:1.5em">📦</h3>
         </div>
         <h3>🛠️ Tech Stack</h3>
         <div style="display:flex; gap:1em; justify-content:center;">
@@ -149,21 +147,19 @@
             <img src="badges/minecraft.svg" title="Minecraft" alt="Minecraft" width="40" height="40"/>
         </div>
         <h3>📌 Summary</h3>
-        <p>🪶 Feather Project is designed to simplify the development of <a href="https://papermc.io/">Paper-Spigot plugins</a> for <a href="https://www.minecraft.net/en-us">Minecraft servers</a>.<br>✨ Building plugins was never easier with this toolkit, which simplifies the development process and provides seamless integration tools.<br>🛠️ The <a href="https://github.com/TheAncientOwl/feather-core">main plugin</a> is built using this <a href="https://github.com/TheAncientOwl/feather-toolkit">toolkit</a>, making plugin development more efficient and effective.
+        <p>🪶 Feather Project is designed to simplify the development of <a href="https://papermc.io/">Paper-Spigot plugins</a> for <a href="https://www.minecraft.net/en-us">Minecraft servers</a>.<br>✨ Building plugins was never easier with this toolkit, which<br> simplifies the development process and provides seamless integration tools.<br>🛠️ The <a href="https://github.com/TheAncientOwl/feather-core">main plugin</a> is built using this <a href="https://github.com/TheAncientOwl/feather-toolkit">toolkit</a>, making plugin development more efficient and effective.
         </br>
     </div>
     <div id="lunar-db">
         <h2>🌙 Lunar DB</h2>
         <div style="display:flex; gap:1em; justify-content:center; align-items:center">
-            <h3 style="margin:0;font-size:1.5em">📦</h3>
             <a href="https://github.com/TheAncientOwl/lunardb">🌕 LunarDB</a>
-            |
+            &nbsp;|&nbsp;
             <a href="https://github.com/TheAncientOwl/lunardb/blob/main/Moonlight.md">🌙 Moonlight</a>
-            |
+            &nbsp;|&nbsp;
             <a href="https://github.com/TheAncientOwl/lunardb-js">🌕 LunarDB-JS</a>
-            |
+            &nbsp;|&nbsp;
             <a href="https://github.com/TheAncientOwl/astro-huddle">🚀 AstroHuddle</a>
-            <h3 style="margin:0;font-size:1.5em">📦</h3>
         </div>
         <h3>🛠️ Tech Stack</h3> 
         <div style="display:flex; gap:1em; justify-content:center;">
@@ -181,9 +177,7 @@
     <div id="mango-analysis">
         <h2>🥭📊 Mango Analysis</h2>
         <div style="display:flex; gap:1em; justify-content:center; align-items:center">
-            <h3 style="margin:0;font-size:1.5em">📦</h3>
             <a href="https://github.com/TheAncientOwl/mango-analysis">🥭 MangoAnalysis</a>
-            <h3 style="margin:0;font-size:1.5em">📦</h3>
         </div>
         <h3>🛠️ Tech Stack</h3> 
         <div style="display:flex; gap:1em; justify-content:center;margin-bottom:1em">
@@ -204,7 +198,7 @@
             <img src="badges/materialui.svg" title="MaterialUI" alt="MaterialUI" width="40" height="40"/>
         </div>
         <h3>📌 Summary</h3>
-        <p>🗂️ MangoAnalysis is a data analysis tool for CSV databases, developed as part of my <i>Bachelor's Degree Project</i>.<br>📊 It features a user-friendly interface with powerful analysis techniques such as <a href="https://en.wikipedia.org/wiki/Principal_component_analysis">Principal Components Analysis</a>, <a href="https://en.wikipedia.org/wiki/Factor_analysis">Factor Analysis</a>, <a href="https://en.wikipedia.org/wiki/Regression_analysis">Regression Models</a>, and <a href="https://github.com/TheAncientOwl/mango-analysis?tab=readme-ov-file#-modules">more</a>.<br>🛠️ Built using React, Redux, and Python Flask, this cross-platform application allows users to explore, visualize, and interpret data to uncover valuable insights.<br>✨ Whether you're a researcher or analyst, MangoAnalysis helps you make informed decisions with ease.
+        <p>🗂️ MangoAnalysis is a data analysis tool for CSV databases, developed as part of my <i>Bachelor's Degree Project</i>.<br>📊 It features a user-friendly interface with powerful analysis techniques such as<br> <a href="https://en.wikipedia.org/wiki/Principal_component_analysis">Principal Components Analysis</a>, <a href="https://en.wikipedia.org/wiki/Factor_analysis">Factor Analysis</a>, <a href="https://en.wikipedia.org/wiki/Regression_analysis">Regression Models</a>, and <a href="https://github.com/TheAncientOwl/mango-analysis?tab=readme-ov-file#-modules">more</a>.<br>🛠️ Built using React, Redux, and Python Flask, this cross-platform application allows users to <br>explore, visualize, and interpret data to uncover valuable insights.<br>✨ Whether you're a researcher or analyst, MangoAnalysis helps you make informed decisions with ease.
         </p>
     </div>
 </div>
