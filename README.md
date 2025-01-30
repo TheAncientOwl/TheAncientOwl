@@ -188,6 +188,14 @@
             <img src="badges/pandas.svg" title="Pandas" alt="Pandas" width="40" height="40"/>
             <img src="badges/scikit-learn.svg" title="SciKit-Learn" alt="SciKit-Learn" width="40" height="40"/>
         </div>
+        <div style="display:flex; gap:1em; justify-content:center;margin-bottom:1em">
+            <img src="badges/nodejs.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
+            <img src="badges/electron.svg" title="ElectronJS" alt="ElectronJS" width="40" height="40"/>
+            <img src="badges/express.svg" title="Express" alt="Express" width="40" height="40"/>
+            <img src="badges/npm.svg" title="NPM" alt="NPM" width="40" height="40"/>
+            <img src="badges/eslint.svg" title="Eslint" alt="Eslint" width="40" height="40"/>
+            <img src="badges/webpack.svg" title="Webpack" alt="Webpack" width="40" height="40"/>
+        </div>
         <div style="display:flex; gap:1em; justify-content:center;">
             <img src="badges/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
             <img src="badges/typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
