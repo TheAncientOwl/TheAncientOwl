@@ -147,7 +147,7 @@
             <img src="badges/minecraft.svg" title="Minecraft" alt="Minecraft" width="40" height="40"/>
         </div>
         <h3>📌 Summary</h3>
-        <p>✨ <i>Building plugins was never easier!</i><br>🪶 Feather Project is designed to simplify the development of <a href="https://papermc.io/">Paper-Spigot plugins</a> for <a href="https://www.minecraft.net/en-us">Minecraft servers</a>.<br>🚀 It also offers smooth integration tools to enhance the development experience.<br>🛠️ The <a href="https://github.com/TheAncientOwl/feather-core">main plugin</a> is built using this <a href="https://github.com/TheAncientOwl/feather-toolkit">toolkit</a>, making plugin development more efficient and effective.
+        <p>✨ <i>Building <a href="https://papermc.io/">Paper-Spigot plugins</a> was never easier!</i><br>🪶 Feather Project is designed to simplify the development process, <br>offering smooth integration tools to enhance the developer experience.<br>🛠️ The <a href="https://github.com/TheAncientOwl/feather-core">FeatherCore plugin</a> is built using the <a href="https://github.com/TheAncientOwl/feather-toolkit">feather-toolkit</a> to showcase its capabilities.
         </br>
     </div>
     <div id="lunar-db">
@@ -206,7 +206,7 @@
             <img src="badges/materialui.svg" title="MaterialUI" alt="MaterialUI" width="40" height="40"/>
         </div>
         <h3>📌 Summary</h3>
-        <p>🗂️ MangoAnalysis is a data analysis tool for CSV databases, developed as part of my <i>Bachelor's Degree Project</i>.<br>📊 It features a user-friendly interface with powerful analysis techniques such as<br> <a href="https://en.wikipedia.org/wiki/Principal_component_analysis">Principal Components Analysis</a>, <a href="https://en.wikipedia.org/wiki/Factor_analysis">Factor Analysis</a>, <a href="https://en.wikipedia.org/wiki/Regression_analysis">Regression Models</a>, and <a href="https://github.com/TheAncientOwl/mango-analysis?tab=readme-ov-file#-modules">more</a>.<br>🛠️ Built using React, Redux, and Python Flask, this cross-platform application allows users to <br>explore, visualize, and interpret data to uncover valuable insights.<br>✨ Whether you're a researcher or analyst, MangoAnalysis helps you make informed decisions with ease.
+        <p>🗂️ MangoAnalysis is a data analysis tool for CSV databases, developed as part of my <i>Bachelor's Degree Project</i>.<br>📊 It features a user-friendly interface with powerful analysis techniques such as<br> <a href="https://en.wikipedia.org/wiki/Principal_component_analysis">Principal Components Analysis</a>, <a href="https://en.wikipedia.org/wiki/Factor_analysis">Factor Analysis</a>, <a href="https://en.wikipedia.org/wiki/Regression_analysis">Regression Models</a>, and <a href="https://github.com/TheAncientOwl/mango-analysis?tab=readme-ov-file#-modules">more</a>.<br>🛠️ Built using React, Electron, and Python Flask, this cross-platform application allows users to <br>explore, visualize, and interpret data to uncover valuable insights.<br>✨ Whether you're a researcher or analyst, MangoAnalysis helps you make informed decisions with ease.
         </p>
     </div>
 </div>
