@@ -137,6 +137,8 @@
             <a href="https://github.com/TheAncientOwl/feather-toolkit">🪶🛠️FeatherToolkit</a>
             &nbsp;|&nbsp;
             <a href="https://github.com/TheAncientOwl/quill">🪶📜 Quill</a>
+            &nbsp;|&nbsp;
+            <a href="https://github.com/TheAncientOwl/feather-showcase">✨ FeatherShowcase</a>
         </div>
         <h3>🛠️ Tech Stack</h3>
         <div style="display:flex; gap:1em; justify-content:center;">
