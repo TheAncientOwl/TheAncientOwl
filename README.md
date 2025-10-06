@@ -155,7 +155,6 @@
         💡 Developed with TypeScript, React, and Chakra UI, it provides a modern, responsive interface for musicians.<br>
         🎵 Songs Viewer: Visualize songs with precise fret positions to help you learn finger placements.</br>
         🎼 Chords: Access a rich library of chords with clear diagrams.</br>
-        📖 Chord List: Browse and search through a curated list of chords.</br>
         📂 Song List: Easily navigate through a growing collection of songs.</br>
         🎨 Themes: Customize the look and feel of the app with various themes.</br>
         📺 Video Resources: Learn how to play songs with helpful video tutorials.</p>
