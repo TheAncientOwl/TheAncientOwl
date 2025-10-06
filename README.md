@@ -74,10 +74,14 @@
         <img src="badges/css3.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
         <img src="badges/react.svg" title="React" alt="React" width="40" height="40"/>
         <img src="badges/redux.svg" title="Redux" alt="Redux" width="40" height="40"/>
-        <img src="badges/materialui.svg" title="MaterialUI" alt="MaterialUI" width="40" height="40"/>
+        <img src="badges/chakra-ui.svg" title="ChakraUI" alt="ChakraUI" width="40" height="40"/>
         <img src="badges/react-router.svg" title="React Router" alt="React Router" width="40" height="40"/>
     </div>
     <h3>✨ Also Used</h3>
+    <div id="Rust">
+        <img src="badges/rust.svg" title="Rust" alt="Rust" width="40" height="40"/>
+        <img src="badges/tauri.svg" title="Tauri" alt="Tauri" width="40" height="40"/>
+    </div>
     <div id="JavaScript-Node">
         <img src="badges/nodejs.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
         <img src="badges/electron.svg" title="ElectronJS" alt="ElectronJS" width="40" height="40"/>
@@ -87,8 +91,10 @@
         <img src="badges/yarn.svg" title="Yarn" alt="Yarn" width="40" height="40"/>
         <img src="badges/eslint.svg" title="Eslint" alt="Eslint" width="40" height="40"/>
         <img src="badges/webpack.svg" title="Webpack" alt="Webpack" width="40" height="40"/>
+        <img src="badges/vite.svg" title="Vite" alt="Vite" width="40" height="40"/>
     </div>
     <div id="Styles">
+        <img src="badges/materialui.svg" title="MaterialUI" alt="MaterialUI" width="40" height="40"/>
         <img src="badges/sass.svg" title="Sass" alt="Sass" width="40" height="40"/>
         <img src="badges/bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
         <img src="badges/bulma.svg" title="BulmaCSS" alt="BulmaCSS" width="40" height="40"/>
@@ -122,6 +128,7 @@
         <img src="badges/kotlin.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>
         <img src="badges/android.svg" title="Android" alt="Android" width="40" height="40"/>
     </div>
+
 </div>
 
 <hr>
@@ -129,6 +136,29 @@
 <h1 align="center">🦉 Owl’s Workshop</h1>
 
 <div  align="center" style="margin: 20px auto; display: flex; flex-direction: column; gap: 5px;">
+    <div id="book-of-frets">
+        <h2>🎸 Book of Frets</h2>
+        <div style="display:flex; gap:1em; justify-content:center; align-items:center">
+            <a href="https://github.com/TheAncientOwl/book-of-frets">🎸 BookOfFrets</a>
+            <a href="https://book-of-frets.com">🎸 Live</a>
+        </div>
+        <h3>🛠️ Tech Stack</h3> 
+        <div style="display:flex; gap:1em; justify-content:center; margin-bottom:1em">
+            <img src="badges/typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
+            <img src="badges/react.svg" title="React" alt="React" width="40" height="40"/>
+            <img src="badges/chakra-ui.svg" title="Chakra UI" alt="Chakra UI" width="40" height="40"/>
+            <img src="badges/vite.svg" title="Vite" alt="Vite" width="40" height="40"/>
+        </div>
+        <h3>📌 Summary</h3>
+        <p>🎶 Book of Frets is an interactive web app built to visualize, practice, and explore guitar chords and songs.<br>
+        💡 Developed with TypeScript, React, and Chakra UI, it provides a modern, responsive interface for musicians.<br>
+        🎵 Songs Viewer: Visualize songs with precise fret positions to help you learn finger placements.</br>
+        🎼 Chords: Access a rich library of chords with clear diagrams.</br>
+        📖 Chord List: Browse and search through a curated list of chords.</br>
+        📂 Song List: Easily navigate through a growing collection of songs.</br>
+        🎨 Themes: Customize the look and feel of the app with various themes.</br>
+        📺 Video Resources: Learn how to play songs with helpful video tutorials.</p>
+    </div>
     <div id="feather-project">
         <h2>🪶 Feather Project</h2>
         <div style="display:flex; gap:1em; justify-content:center; align-items:center">
@@ -163,7 +193,7 @@
             &nbsp;|&nbsp;
             <a href="https://github.com/TheAncientOwl/astro-huddle">🚀 AstroHuddle</a>
         </div>
-        <h3>🛠️ Tech Stack</h3> 
+        <h3>🛠️ Tech Stack</h3>
         <div style="display:flex; gap:1em; justify-content:center;">
             <img src="badges/cplusplus.svg" title="C++" alt="C++" width="40" height="40"/>
             <img src="badges/cmake.svg" title="CMake" alt="CMake" width="40" height="40"/>
@@ -181,7 +211,7 @@
         <div style="display:flex; gap:1em; justify-content:center; align-items:center">
             <a href="https://github.com/TheAncientOwl/mango-analysis">🥭 MangoAnalysis</a>
         </div>
-        <h3>🛠️ Tech Stack</h3> 
+        <h3>🛠️ Tech Stack</h3>
         <div style="display:flex; gap:1em; justify-content:center;margin-bottom:1em">
             <img src="badges/python.svg" title="Python" alt="Python" width="40" height="40"/>
             <img src="badges/anaconda.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>
@@ -211,6 +241,7 @@
         <p>🗂️ MangoAnalysis is a data analysis tool for CSV databases, developed as part of my <i>Bachelor's Degree Project</i>.<br>📊 It features a user-friendly interface with powerful analysis techniques such as<br> <a href="https://en.wikipedia.org/wiki/Principal_component_analysis">Principal Components Analysis</a>, <a href="https://en.wikipedia.org/wiki/Factor_analysis">Factor Analysis</a>, <a href="https://en.wikipedia.org/wiki/Regression_analysis">Regression Models</a>, and <a href="https://github.com/TheAncientOwl/mango-analysis?tab=readme-ov-file#-modules">more</a>.<br>🛠️ Built using React, Electron, and Python Flask, this cross-platform application allows users to <br>explore, visualize, and interpret data to uncover valuable insights.<br>✨ Whether you're a researcher or analyst, MangoAnalysis helps you make informed decisions with ease.
         </p>
     </div>
+
 </div>
 
 <hr>
