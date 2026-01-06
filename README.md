@@ -75,6 +75,7 @@
         <img src="badges/redux.svg" title="Redux" alt="Redux" width="40" height="40"/>
         <img src="badges/chakra-ui.svg" title="ChakraUI" alt="ChakraUI" width="40" height="40"/>
         <img src="badges/react-router.svg" title="React Router" alt="React Router" width="40" height="40"/>
+        <img src="badges/vite.svg" title="Vite" alt="Vite" width="40" height="40"/>
     </div>
     <h3>✨ Also Used</h3>
     <div id="Rust">
@@ -88,7 +89,6 @@
         <img src="badges/yarn.svg" title="Yarn" alt="Yarn" width="40" height="40"/>
         <img src="badges/eslint.svg" title="Eslint" alt="Eslint" width="40" height="40"/>
         <img src="badges/webpack.svg" title="Webpack" alt="Webpack" width="40" height="40"/>
-        <img src="badges/vite.svg" title="Vite" alt="Vite" width="40" height="40"/>
     </div>
     <div id="Styles">
         <img src="badges/materialui.svg" title="MaterialUI" alt="MaterialUI" width="40" height="40"/>
