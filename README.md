@@ -58,6 +58,15 @@
         <img src="badges/papermc.svg" title="PaperMC" alt="PaperMC" width="40" height="40"/>
         <img src="badges/minecraft.svg" title="Minecraft" alt="Minecraft" width="40" height="40"/>
     </div>
+     <div id="Rust-TypeScript-React">
+        <img src="badges/rust.svg" title="Rust" alt="Rust" width="40" height="40"/>
+        <img src="badges/tauri.svg" title="Tauri" alt="Tauri" width="40" height="40"/>
+        <img src="badges/typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
+        <img src="badges/react.svg" title="React" alt="React" width="40" height="40"/>
+        <img src="badges/redux.svg" title="Redux" alt="Redux" width="40" height="40"/>
+        <img src="badges/chakra-ui.svg" title="ChakraUI" alt="ChakraUI" width="40" height="40"/>
+        <img src="badges/react-router.svg" title="React Router" alt="React Router" width="40" height="40"/>
+    </div>
     <div id="Linux-CLI">
         <img src="badges/python.svg" title="Python" alt="Python" width="40" height="40"/>
         <img src="badges/git.svg" title="Git" alt="Git" width="40" height="40"/>
@@ -67,20 +76,8 @@
         <img src="badges/powershell.svg" title="PowerShell" alt="PowerShell" width="40" height="40"/>
         <img src="badges/windows-11.svg" title="Windows" alt="Windows" width="40" height="40"/>
     </div>
-    <div id="JavaScript-React">
-        <img src="badges/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-        <img src="badges/typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
-        <img src="badges/html5.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
-        <img src="badges/css3.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
-        <img src="badges/react.svg" title="React" alt="React" width="40" height="40"/>
-        <img src="badges/redux.svg" title="Redux" alt="Redux" width="40" height="40"/>
-        <img src="badges/chakra-ui.svg" title="ChakraUI" alt="ChakraUI" width="40" height="40"/>
-        <img src="badges/react-router.svg" title="React Router" alt="React Router" width="40" height="40"/>
-    </div>
     <h3>✨ Also Used</h3>
     <div id="Rust">
-        <img src="badges/rust.svg" title="Rust" alt="Rust" width="40" height="40"/>
-        <img src="badges/tauri.svg" title="Tauri" alt="Tauri" width="40" height="40"/>
     </div>
     <div id="JavaScript-Node">
         <img src="badges/nodejs.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
