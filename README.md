@@ -3,8 +3,8 @@
 </head>
 
 <div id="header" align="center">
-    <!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZkZDdtZnFqbDBjZmh4ZTNqZDZnd3NmOTU4cng5ZTloM3E2bHY3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350"/> -->
-    <img src="./images/giphy.gif" width="350" style="border-radius:10px"/>
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZkZDdtZnFqbDBjZmh4ZTNqZDZnd3NmOTU4cng5ZTloM3E2bHY3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350"/>
+    <!-- <img src="./images/giphy.gif" width="350" style="border-radius:10px"/> -->
     <!-- <img src="./images/alastor-coding.png" width="300" style="border-radius:10px"/> -->
 </div>
 
