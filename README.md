@@ -24,20 +24,20 @@
 <h1 align="center">💫 About Me</h1>
 
 <div align="center" style="display: flex; flex-direction: column; gap: 3px;">
-  <p>
-    👨‍💻 I'm a passionate IT professional who finds great joy bringing ideas to life through coding. 
-    <br>
-    With a keen eye for detail and a love for problem-solving, I strive to create impactful solutions.
-  </p>
-
-  <p>
-    👾 I enjoy customizing every aspect of the development environment. I believe in <br> tailoring my tools to enhance productivity and foster a delightful coding experience.
-  </p>
-
-  <p>
-    👀 My curiosity knows no bounds, and I'm always eager to learn new technologies and tools.<br> I embrace challenges that require me to expand my skill set and I'm ready to dive into <br>the depths of emerging technologies if the need arises, staying ahead of the curve.
-  </p>
-🚀 Feel free to explore my repositories, where you'll find a mix of <br>personal projects, experiments, and collaborations.
+    <p>
+    👨‍💻 Passionate about bringing ideas to life with code.<br>
+    Detail-oriented problem solver who enjoys creating useful, real-world solutions.
+    </p>
+    <p>
+    👾 Always tweaking the development setup to make coding smoother and more enjoyable.<br>
+    If there's a better way to do it, I'll figure it out.
+    </p>
+     <p>
+    👀 Always curious, I enjoy exploring new tech, picking up new skills, <br>and tackling challenges that push me further.
+    </p>
+     <p>
+    🚀 Feel free to explore my repositories, where you'll find a mix of <br>personal projects, experiments, and collaborations.
+    </p>
 </div>
 <br>
 
@@ -133,7 +133,7 @@
 
 <hr>
 
-<h1 align="center">🦉 Owl’s Workshop</h1>
+<h1 align="center">🦉 Owl's Workshop</h1>
 
 <div  align="center" style="margin: 20px auto; display: flex; flex-direction: column; gap: 5px;">
     <div id="book-of-frets">
