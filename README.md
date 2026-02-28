@@ -205,7 +205,7 @@
             <img src="badges/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
         </div>
         <h3>📌 Summary</h3>
-        <p>🌙 <b>LunarDB</b> is a flexible and scalable database management system, <br>developed as part of my <i>Master's Degree Project</i>.<br>🗂️ It provides versatile data handling, normalization options, <br>high performance, and a developer-friendly API.<br>✨ Supporting both structured and unstructured data,<br> LunarDB is ideal for a wide range of applications.</p>
+        <p>🌙 <b>LunarDB</b> is a flexible and scalable database management system, developed as part of my <i>Master's Degree Project</i>.<br>🗂️ It provides versatile data handling, normalization options, high performance, and a developer-friendly API.<br>✨ Supporting both structured and unstructured data, LunarDB is ideal for a wide range of applications.</p>
     </div>
     <div id="mango-analysis">
         <h2>🥭📊 Mango Analysis</h2>
