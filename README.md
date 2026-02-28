@@ -152,13 +152,13 @@
             <img src="badges/vite.svg" title="Vite" alt="Vite" width="40" height="40"/>
         </div>
         <h3>📌 Summary</h3>
-        <p>🎶 Book of Frets is an interactive web app built to visualize, practice, and explore guitar chords and songs.<br>
-        💡 Developed with TypeScript, React, and Chakra UI, it provides a modern, responsive interface for musicians.<br>
-        🎵 Songs Viewer: Visualize songs with precise fret positions to help you learn finger placements.</br>
-        🎼 Chords: Access a rich library of chords with clear diagrams.</br>
-        📂 Song List: Easily navigate through a growing collection of songs.</br>
-        🎨 Themes: Customize the look and feel of the app with various themes.</br>
-        📺 Video Resources: Learn how to play songs with helpful video tutorials.</p>
+        <p>🎶 <b>Book of Frets</b> is an interactive app for exploring and practicing guitar chords and songs.<br>
+        💡 Enjoy a modern, responsive interface designed for musicians.<br>
+        🎵 <b>Songs Viewer:</b> See songs with accurate fret positions to master finger placements.<br>
+        🎼 <b>Chords:</b> Browse a rich library of clear chord diagrams.<br>
+        📂 <b>Song List:</b> Navigate easily through a growing collection of songs.<br>
+        🎨 <b>Themes:</b> Personalize the app with multiple visual themes.<br>
+        📺 <b>Video Tutorials:</b> Learn songs with step-by-step video guidance.</p>
     </div>
     <div id="feather-project">
         <h2>🪶 Feather Project</h2>
@@ -180,8 +180,9 @@
             <img src="badges/minecraft.svg" title="Minecraft" alt="Minecraft" width="40" height="40"/>
         </div>
         <h3>📌 Summary</h3>
-        <p>✨ <i>Building <a href="https://papermc.io/">Paper-Spigot plugins</a> was never easier!</i><br>🪶 Feather Project is designed to simplify the development process, <br>offering smooth integration tools to enhance the developer experience.<br>🛠️ The <a href="https://github.com/TheAncientOwl/feather-core">FeatherCore plugin</a> is built using the <a href="https://github.com/TheAncientOwl/feather-toolkit">feather-toolkit</a> to showcase its capabilities.
-        </br>
+       <p>✨ <i>Creating <a href="https://papermc.io/">Paper-Spigot plugins</a> has never been easier!</i><br>🪶
+        <b>Feather Project</b> streamlines development, providing seamless integration tools to improve your workflow.<br>
+        🛠️ The <a href="https://github.com/TheAncientOwl/feather-core">FeatherCore plugin</a>, built with the <a href="https://github.com/TheAncientOwl/feather-toolkit">feather-toolkit</a>, demonstrates its full potential.<br></p>
     </div>
     <div id="lunar-db">
         <h2>🌙 Lunar DB</h2>
@@ -204,8 +205,7 @@
             <img src="badges/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
         </div>
         <h3>📌 Summary</h3>
-        <p>🌙 LunarDB is a database management system designed for flexibility and scalability developed as part of my <i>Master's Degree Project</i>.<br>🗂️ It offers versatile data handling, normalization options, high performance, and a developer-friendly API.<br>✨ It supports both structured and unstructured data, making it suitable for a wide range of applications.
-        </p>
+        <p>🌙 <b>LunarDB</b> is a flexible and scalable database management system, <br>developed as part of my <i>Master's Degree Project</i>.<br>🗂️ It provides versatile data handling, normalization options, <br>high performance, and a developer-friendly API.<br>✨ Supporting both structured and unstructured data,<br> LunarDB is ideal for a wide range of applications.</p>
     </div>
     <div id="mango-analysis">
         <h2>🥭📊 Mango Analysis</h2>
