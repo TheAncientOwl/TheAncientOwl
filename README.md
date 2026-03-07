@@ -198,6 +198,7 @@
             <img src="badges/mockito.svg" title="Unit testing with Mockito" alt="Mockito" width="40" height="40"/>
             <img src="badges/papermc.svg" title="PaperMC" alt="PaperMC" width="40" height="40"/>
             <img src="badges/minecraft.svg" title="Minecraft" alt="Minecraft" width="40" height="40"/>
+            <img src="badges/python.svg" title="Python" alt="Python" width="40" height="40"/>
         </div>
         <h3>📌 Summary</h3>
        <p>✨ <i>Creating <a href="https://papermc.io/">Paper-Spigot plugins</a> has never been easier!</i><br>🪶
@@ -241,22 +242,14 @@
             <img src="badges/pandas.svg" title="Pandas" alt="Pandas" width="40" height="40"/>
             <img src="badges/scikit-learn.svg" title="SciKit-Learn" alt="SciKit-Learn" width="40" height="40"/>
         </div>
-        <div style="display:flex; gap:1em; justify-content:center;margin-bottom:1em">
-            <img src="badges/nodejs.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
-            <img src="badges/electron.svg" title="ElectronJS" alt="ElectronJS" width="40" height="40"/>
-            <img src="badges/express.svg" title="Express" alt="Express" width="40" height="40"/>
-            <img src="badges/npm.svg" title="NPM" alt="NPM" width="40" height="40"/>
-            <img src="badges/eslint.svg" title="Eslint" alt="Eslint" width="40" height="40"/>
-            <img src="badges/webpack.svg" title="Webpack" alt="Webpack" width="40" height="40"/>
-        </div>
         <div style="display:flex; gap:1em; justify-content:center;">
-            <img src="badges/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
             <img src="badges/typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
-            <img src="badges/html5.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
-            <img src="badges/css3.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
             <img src="badges/react.svg" title="React" alt="React" width="40" height="40"/>
             <img src="badges/redux.svg" title="Redux" alt="Redux" width="40" height="40"/>
             <img src="badges/materialui.svg" title="MaterialUI" alt="MaterialUI" width="40" height="40"/>
+            <img src="badges/electron.svg" title="ElectronJS" alt="ElectronJS" width="40" height="40"/>
+            <img src="badges/nodejs.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
+            <img src="badges/webpack.svg" title="Webpack" alt="Webpack" width="40" height="40"/>
         </div>
         <h3>📌 Summary</h3>
         <p>🗂️ MangoAnalysis is a data analysis tool for CSV databases, developed as part of my <i>Bachelor's Degree Project</i>.<br>📊 It features a user-friendly interface with powerful analysis techniques such as<br> <a href="https://en.wikipedia.org/wiki/Principal_component_analysis">Principal Components Analysis</a>, <a href="https://en.wikipedia.org/wiki/Factor_analysis">Factor Analysis</a>, <a href="https://en.wikipedia.org/wiki/Regression_analysis">Regression Models</a>, and <a href="https://github.com/TheAncientOwl/mango-analysis?tab=readme-ov-file#-modules">more</a>.<br>🛠️ Built using React, Electron, and Python Flask, this cross-platform application allows users to <br>explore, visualize, and interpret data to uncover valuable insights.<br>✨ Whether you're a researcher or analyst, MangoAnalysis helps you make informed decisions with ease.
