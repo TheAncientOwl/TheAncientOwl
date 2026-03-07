@@ -172,6 +172,7 @@
             <img src="badges/typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
             <img src="badges/react.svg" title="React" alt="React" width="40" height="40"/>
             <img src="badges/redux.svg" title="Redux" alt="Redux" width="40" height="40"/>
+            <img src="badges/chakra-ui.svg" title="Chakra UI" alt="Chakra UI" width="40" height="40"/>
             <img src="badges/vite.svg" title="Vite" alt="Vite" width="40" height="40"/>
         </div>
         <h3>📌 Summary</h3>
