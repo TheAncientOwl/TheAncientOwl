@@ -195,7 +195,7 @@
         🛠️ The <a href="https://github.com/TheAncientOwl/feather-core">FeatherCore plugin</a>, built with the <a href="https://github.com/TheAncientOwl/feather-toolkit">feather-toolkit</a>, demonstrates its full potential.<br></p>
     </div>
     <div id="lunar-db">
-        <h2>🌙 Lunar DB</h2>
+        <h2>🌙 LunarDB</h2>
         <div style="display:flex; gap:1em; justify-content:center; align-items:center">
             <a href="https://github.com/TheAncientOwl/lunardb">🌕 LunarDB</a>
             &nbsp;|&nbsp;
