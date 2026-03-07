@@ -4,11 +4,9 @@
 
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZkZDdtZnFqbDBjZmh4ZTNqZDZnd3NmOTU4cng5ZTloM3E2bHY3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350"/>
-    <!-- <img src="./images/giphy.gif" width="350" style="border-radius:10px"/> -->
-    <!-- <img src="./images/alastor-coding.png" width="300" style="border-radius:10px"/> -->
 </div>
 
-<div id="links" align="center" style="margin: 15px auto 0px auto;">
+<div id="links" align="center">
     <a href="https://instagram.com/alex.dele.o.o">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="insta-badge"/>
     </a>
@@ -39,14 +37,15 @@
     🚀 Feel free to explore my repositories, where you'll find a mix of <br>personal projects, experiments, and collaborations.
     </p>
 </div>
+
 <br>
 
-<hr>
+<!-- <hr> -->
 
 <h1 align="center">🛠️ Tech Stack</h1>
 
-<div align="center" style="margin: 20px auto; display: flex; flex-direction: column; gap: 5px">
-    <h3>⚡️ Core</h3>
+<div align="center" >
+    <h3>⚡️ Main Stack</h3>
     <div id="C++">
         <img src="badges/c.svg" title="C" alt="C" width="40" height="40"/>
         <img src="badges/cplusplus.svg" title="C++" alt="C++" width="40" height="40"/>
@@ -80,17 +79,14 @@
         <img src="badges/chakra-ui.svg" title="ChakraUI" alt="ChakraUI" width="40" height="40"/>
         <img src="badges/vite.svg" title="Vite" alt="Vite" width="40" height="40"/>
     </div>
-    <h3>✨ Also Used</h3>
+    <h3>🧰 Additional Tech</h3>
     <div id="Rust">
     </div>
-    <div id="JavaScript-Node">
-        <img src="badges/nodejs.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
+     <div id="JavaScript-Node">
         <img src="badges/electron.svg" title="ElectronJS" alt="ElectronJS" width="40" height="40"/>
-        <img src="badges/express.svg" title="Express" alt="Express" width="40" height="40"/>
+        <img src="badges/nodejs.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
         <img src="badges/threejs.svg" title="ThreeJS" alt="ThreeJS" width="40" height="40"/>
-        <img src="badges/npm.svg" title="NPM" alt="NPM" width="40" height="40"/>
-        <img src="badges/yarn.svg" title="Yarn" alt="Yarn" width="40" height="40"/>
-        <img src="badges/eslint.svg" title="Eslint" alt="Eslint" width="40" height="40"/>
+        <img src="badges/express.svg" title="Express" alt="Express" width="40" height="40"/>
         <img src="badges/webpack.svg" title="Webpack" alt="Webpack" width="40" height="40"/>
     </div>
     <div id="Styles">
@@ -102,47 +98,40 @@
         <img src="badges/styled-components.svg" title="StyledComponents" alt="StyledComponents" width="40" height="40"/>
     </div>
     <div id="Python">
-        <img src="badges/python.svg" title="Python" alt="Python" width="40" height="40"/>
-        <img src="badges/anaconda.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>
+        <img src="badges/csharp.svg" title="CSharp" alt="CSharp" width="40" height="40"/>
+        <img src="badges/unity.svg" title="Unity" alt="Unity" width="40" height="40"/>
+        <img src="badges/dotnetcore.svg" title=".Net Core" alt=".Net Core" width="40" height="40"/>
         <img src="badges/flask.svg" title="Flask" alt="Flask" width="40" height="40"/>
         <img src="badges/numpy.svg" title="NumPy" alt="NumPy" width="40" height="40"/>
         <img src="badges/pandas.svg" title="Pandas" alt="Pandas" width="40" height="40"/>
         <img src="badges/scikit-learn.svg" title="SciKit-Learn" alt="SciKit-Learn" width="40" height="40"/>
     </div>
-    <div id="C#">
-        <img src="badges/csharp.svg" title="CSharp" alt="CSharp" width="40" height="40"/>
-        <img src="badges/unity.svg" title="Unity" alt="Unity" width="40" height="40"/>
-        <img src="badges/dotnetcore.svg" title=".Net Core" alt=".Net Core" width="40" height="40"/>
-    </div>
-    <div id="R&Matlab">
-        <img src="badges/matlab.svg" title="Matlab" alt="Matlab" width="40" height="40"/>
-        <img src="badges/r.svg" title="R" alt="R" width="40" height="40"/>
-    </div>
-    <div id="Databases&Docker">
-        <img src="badges/mongodb.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
-        <img src="badges/oracle.svg" title="OracleSQL" alt="OracleSQL" width="40" height="40"/>
-        <img src="badges/docker.svg" title="Docker" alt="Docker" width="40" height="40"/>
-    </div>
-    <div id="Java">
-        <img src="badges/java.svg" title="Java" alt="Java" width="40" height="40"/>
+    <div id="Misc">
         <img src="badges/kotlin.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>
         <img src="badges/android.svg" title="Android" alt="Android" width="40" height="40"/>
+        <img src="badges/docker.svg" title="Docker" alt="Docker" width="40" height="40"/>
+        <img src="badges/mongodb.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
+        <img src="badges/oracle.svg" title="OracleSQL" alt="OracleSQL" width="40" height="40"/>
+        <img src="badges/matlab.svg" title="Matlab" alt="Matlab" width="40" height="40"/>
+        <img src="badges/r.svg" title="R" alt="R" width="40" height="40"/>
     </div>
 
 </div>
 
-<hr>
+<!-- <hr> -->
+<br>
 
 <h1 align="center">🦉 Owl's Workshop</h1>
 
-<div  align="center" style="margin: 20px auto; display: flex; flex-direction: column; gap: 5px;">
+<div align="center">
     <div id="book-of-frets">
         <h2>🎸 Book of Frets</h2>
         <div style="display:flex; gap:1em; justify-content:center; align-items:center">
             <a href="https://github.com/TheAncientOwl/book-of-frets">🎸 BookOfFrets</a>
+            &nbsp;|&nbsp;
             <a href="https://book-of-frets.com">🎸 Live</a>
         </div>
-        <h3>🛠️ Tech Stack</h3> 
+        <h3>🛠️ Tech Stack</h3>
         <div style="display:flex; gap:1em; justify-content:center; margin-bottom:1em">
             <img src="badges/typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
             <img src="badges/react.svg" title="React" alt="React" width="40" height="40"/>
