@@ -160,6 +160,25 @@
         🎨 <b>Themes:</b> Personalize the app with multiple visual themes.<br>
         📺 <b>Video Tutorials:</b> Learn songs with step-by-step video guidance.</p>
     </div>
+    <div id="oopsielogsy">
+        <h2>☕🪵 OopsieLogsy</h2>
+        <div style="display:flex; gap:1em; justify-content:center; align-items:center">
+            <a href="https://github.com/TheAncientOwl/oopsie-logsy">☕🪵 OopsieLogsy</a>
+        </div>
+        <h3>🛠️ Tech Stack</h3>
+        <div style="display:flex; gap:1em; justify-content:center; margin-bottom:1em">
+            <img src="badges/rust.svg" title="Rust" alt="Rust" width="40" height="40"/>
+            <img src="badges/tauri.svg" title="Tauri" alt="Tauri" width="40" height="40"/>
+            <img src="badges/typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
+            <img src="badges/react.svg" title="React" alt="React" width="40" height="40"/>
+            <img src="badges/redux.svg" title="Redux" alt="Redux" width="40" height="40"/>
+            <img src="badges/vite.svg" title="Vite" alt="Vite" width="40" height="40"/>
+        </div>
+        <h3>📌 Summary</h3>
+        <p>🪵 <b>OopsieLogsy</b> is a fast and lightweight log viewer built for exploring very large text log files.<br>
+        🔎 It uses <b>regex‑based parsing</b> to split log lines into structured columns, making logs easier to read and analyze.<br>
+        ⚡ Designed with performance in mind, OopsieLogsy provides smooth scrolling, filtering, and quick navigation through massive logs.</p>
+    </div>
     <div id="feather-project">
         <h2>🪶 Feather Project</h2>
         <div style="display:flex; gap:1em; justify-content:center; align-items:center">
