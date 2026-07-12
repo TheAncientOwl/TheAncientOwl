@@ -52,23 +52,24 @@
         <img src="badges/cmake.svg" title="CMake" alt="CMake" width="40" height="40"/>
         <img src="badges/cpp-unit-testing.svg" title="Unit Testing with Google Test" alt="Unit Testing with Google Test" width="40" height="40"/>
     </div>
-    <div id="Java/Minecraft/Spigot">
+    <div id="Linux-CLI">
+        <img src="badges/python.svg" title="Python" alt="Python" width="40" height="40"/>
+        <img src="badges/git.svg" title="Git" alt="Git" width="40" height="40"/>
+        <img src="badges/bash.svg" title="Bash" alt="Bash" width="40" height="40"/>
+        <img src="badges/ubuntu.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
+        <img src="badges/linux.svg" title="Linux" alt="Linux" width="40" height="40"/>
+        <img src="badges/powershell.svg" title="PowerShell" alt="PowerShell" width="40" height="40"/>
+        <img src="badges/windows-11.svg" title="Windows" alt="Windows" width="40" height="40"/>
+    </div>
+    <h3>🎮 Hobbies Stack</h3>
+     <div id="Java/Minecraft/Spigot">
         <img src="badges/java.svg" title="Java" alt="Java" width="40" height="40"/>
         <img src="badges/java-unit-testing.svg" title="Unit Testing with JUnit" alt="Unit Testing with JUnit" width="40" height="40"/>
         <img src="badges/mockito.svg" title="Unit testing with Mockito" alt="Mockito" width="40" height="40"/>
         <img src="badges/papermc.svg" title="PaperMC" alt="PaperMC" width="40" height="40"/>
         <img src="badges/minecraft.svg" title="Minecraft" alt="Minecraft" width="40" height="40"/>
     </div>
-    <div id="Linux-CLI">
-        <img src="badges/python.svg" title="Python" alt="Python" width="40" height="40"/>
-        <img src="badges/git.svg" title="Git" alt="Git" width="40" height="40"/>
-        <img src="badges/bash.svg" title="Bash" alt="Bash" width="40" height="40"/>
-        <img src="badges/linux.svg" title="Linux" alt="Linux" width="40" height="40"/>
-        <img src="badges/ubuntu.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
-        <img src="badges/powershell.svg" title="PowerShell" alt="PowerShell" width="40" height="40"/>
-        <img src="badges/windows-11.svg" title="Windows" alt="Windows" width="40" height="40"/>
-    </div>
-     <div id="Rust-TypeScript-React">
+    <div id="Rust-TypeScript-React">
         <img src="badges/rust.svg" title="Rust" alt="Rust" width="40" height="40"/>
         <img src="badges/tauri.svg" title="Tauri" alt="Tauri" width="40" height="40"/>
         <img src="badges/typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
@@ -79,7 +80,7 @@
         <img src="badges/chakra-ui.svg" title="ChakraUI" alt="ChakraUI" width="40" height="40"/>
         <img src="badges/vite.svg" title="Vite" alt="Vite" width="40" height="40"/>
     </div>
-    <h3>🧰 Additional Tech</h3>
+    <h3>🧰 Other Tech</h3>
     <div id="Rust">
     </div>
      <div id="JavaScript-Node">
