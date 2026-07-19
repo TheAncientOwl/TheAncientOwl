@@ -73,6 +73,7 @@
         <img src="badges/rust.svg" title="Rust" alt="Rust" width="40" height="40"/>
         <img src="badges/tauri.svg" title="Tauri" alt="Tauri" width="40" height="40"/>
         <img src="badges/typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
+        <img src="badges/astro.svg" title="Astro" alt="Astro" width="40" height="40"/>
         <img src="badges/react.svg" title="React" alt="React" width="40" height="40"/>
         <img src="badges/react-router.svg" title="React Router" alt="React Router" width="40" height="40"/>
         <img src="badges/zustand.svg" title="Zustand" alt="Zustand" width="40" height="40"/>
@@ -130,8 +131,18 @@
         <h2>🎸 Book of Frets</h2>
         <div style="display:flex; gap:1em; justify-content:center; align-items:center">
             <a href="https://github.com/TheAncientOwl/book-of-frets">🎸 BookOfFrets</a>
+            <a href="https://github.com/TheAncientOwl/book-of-frets-x">🎸 BookOfFrets-X</a>
             &nbsp;|&nbsp;
             <a href="https://book-of-frets.com">🎸 Live</a>
+        </div>
+        <h3>🛠️ Tech Stack - X</h3>
+        <div style="display:flex; gap:1em; justify-content:center; margin-bottom:1em">
+            <img src="badges/typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
+            <img src="badges/astro.svg" title="Astro" alt="Astro" width="40" height="40"/>
+            <img src="badges/tailwindcss.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>
+            <img src="badges/html5.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
+            <img src="badges/css3.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
+            <img src="badges/vite.svg" title="Vite" alt="Vite" width="40" height="40"/>
         </div>
         <h3>🛠️ Tech Stack</h3>
         <div style="display:flex; gap:1em; justify-content:center; margin-bottom:1em">
