@@ -131,6 +131,7 @@
         <h2>🎸 Book of Frets</h2>
         <div style="display:flex; gap:1em; justify-content:center; align-items:center">
             <a href="https://github.com/TheAncientOwl/book-of-frets">🎸 BookOfFrets</a>
+            &nbsp;|&nbsp;
             <a href="https://github.com/TheAncientOwl/book-of-frets-x">🎸 BookOfFrets-X</a>
             &nbsp;|&nbsp;
             <a href="https://book-of-frets.com">🎸 Live</a>
