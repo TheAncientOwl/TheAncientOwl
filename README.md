@@ -22,15 +22,16 @@
 
 # 💫 About Me
 
-👨‍💻 Passionate about bringing ideas to life with code.
-Detail-oriented problem solver who enjoys creating useful, real-world solutions.
+<p>
+👨‍💻 Passionate about bringing ideas to life with code.<br> Detail-oriented problem solver who enjoys creating useful, real-world solutions.
 
-👾 Always tweaking the development setup to make coding smoother and more enjoyable.
-If there's a better way to do it, I'll figure it out.
+👾 Always tweaking the development setup to make coding smoother and more enjoyable.<br>If there's a better way to do it, I'll figure it out.
 
-👀 Always curious, I enjoy exploring new tech, picking up new skills, and tackling challenges that push me further.
+👀 Always curious, I enjoy exploring new tech, picking up new skills, <br>and tackling challenges that push me further.
 
-🚀 Feel free to explore my repositories, where you'll find a mix of personal projects, experiments, and collaborations.
+🚀 Feel free to explore my repositories, where you'll find a mix of <br>personal projects, experiments, and collaborations.
+
+</p>
 
 ---
 
