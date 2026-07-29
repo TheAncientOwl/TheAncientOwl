@@ -2,17 +2,17 @@
     <img src="./images/tech-stack.png" width="400" alt="Tech Stack Header" />
     <table>
         <tr>
-            <td width="80px" align="center">
+            <td align="center">
             <a href="https://instagram.com/alex.dele.o.o">
                 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
             </a>
             </td>
-            <td width="80px" align="center">
+            <td align="center">
             <a href="https://linkedin.com/in/alexandru-delegeanu">
                 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
             </a>
             </td>
-            <td width="80px" align="center">
+            <td align="center">
             <a href="https://open.spotify.com/playlist/5YYqRKbgTKXAcP91Tv8r1Y?si=b957d0eb82024411">
                 <img src="https://img.shields.io/badge/-Spotify-1DB954?logo=spotify&logoColor=white" alt="Spotify" />
             </a>
