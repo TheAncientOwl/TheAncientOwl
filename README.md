@@ -117,21 +117,12 @@ If there's a better way to do it, I'll figure it out.
 <table>
     <tr><h3>🛠️ Tech Stack</h3></tr>
     <tr>
-        <td><h4>BookOfFrets</h4></td>
         <td><img src="badges/typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40" /></td>
         <td><img src="badges/astro.svg" title="Astro" alt="Astro" width="40" height="40" /></td>
+        <td><img src="badges/react.svg" title="React" alt="React" width="40" height="40" /></td>
         <td><img src="badges/tailwindcss.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40" /></td>
         <td><img src="badges/html5.svg" title="HTML5" alt="HTML5" width="40" height="40" /></td>
         <td><img src="badges/css3.svg" title="CSS3" alt="CSS3" width="40" height="40" /></td>
-        <td><img src="badges/vite.svg" title="Vite" alt="Vite" width="40" height="40" /></td>
-    </tr>
-    <tr>
-        <td><h4>BookOfFrets-X</h4></td>
-        <td><img src="badges/typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40" /></td>
-        <td><img src="badges/react.svg" title="React" alt="React" width="40" height="40" /></td>
-        <td><img src="badges/react-router.svg" title="React Router" alt="React Router" width="40" height="40" /></td>
-        <td><img src="badges/zustand.svg" title="Zustand" alt="Zustand" width="40" height="40" /></td>
-        <td><img src="badges/chakra-ui.svg" title="Chakra UI" alt="Chakra UI" width="40" height="40" /></td>
         <td><img src="badges/vite.svg" title="Vite" alt="Vite" width="40" height="40" /></td>
     </tr>
 </table>
