@@ -145,13 +145,15 @@ If there's a better way to do it, I'll figure it out.
 
 ### 📌 Summary
 
-🎶 **Book of Frets** is an interactive app for exploring and practicing guitar chords and songs.
-💡 Enjoy a modern, responsive interface designed for musicians.
-🎵 **Songs Viewer:** See songs with accurate fret positions to master finger placements.
-🎼 **Chords:** Browse a rich library of clear chord diagrams.
-📂 **Song List:** Navigate easily through a growing collection of songs.
-🎨 **Themes:** Personalize the app with multiple visual themes.
-📺 **Video Tutorials:** Learn songs with step-by-step video guidance.
+<p>
+    🎶 <b>Book of Frets</b> is an interactive app for exploring and practicing guitar chords and songs.<br>
+    💡 Enjoy a modern, responsive interface designed for musicians.<br>
+    🎵 <b>Songs Viewer:</b> See songs with accurate fret positions to master finger placements.<br>
+    🎼 <b>Chords:</b> Browse a rich library of clear chord diagrams.<br>
+    📂 <b>Song List:</b> Navigate easily through a growing collection of songs.<br>
+    🎨 <b>Themes:</b> Personalize the app with multiple visual themes.<br>
+    📺 <b>Video Tutorials:</b> Learn songs with step-by-step video guidance.<br>
+</p>
 
 ---
 
@@ -174,9 +176,11 @@ If there's a better way to do it, I'll figure it out.
 
 ### 📌 Summary
 
-🪵 **OopsieLogsy** is a fast and lightweight log viewer built for exploring very large text log files.
-🔎 It uses **regex‑based parsing** to split log lines into structured columns, making logs easier to read and analyze.
-⚡ Designed with performance in mind, OopsieLogsy provides smooth scrolling, filtering, and quick navigation through massive logs.
+<p>
+    🪵 <b>OopsieLogsy</b> is a fast and lightweight log viewer built for exploring very large text log files.<br>
+    🔎 It uses <b>regex‑based parsing</b> to split log lines into structured columns, making logs easier to read and analyze.<br>
+    ⚡ Designed with performance in mind, OopsieLogsy provides smooth scrolling, filtering, and quick navigation through massive logs.<br>
+</p>
 
 ---
 
@@ -198,9 +202,11 @@ If there's a better way to do it, I'll figure it out.
 
 ### 📌 Summary
 
-✨ _Creating [Paper-Spigot plugins](https://papermc.io/) has never been easier!_
-🪶 **Feather Project** streamlines development, providing seamless integration tools to improve your workflow.
-🛠️ The [FeatherCore plugin](https://github.com/TheAncientOwl/feather-core), built with the [feather-toolkit](https://github.com/TheAncientOwl/feather-toolkit), demonstrates its full potential.
+<p>
+    ✨ <i>Creating <a href="https://papermc.io/">Paper-Spigot plugins</a> has never been easier!</i><br>
+    🪶 <b>Feather Project</b> streamlines development, providing seamless integration tools to improve your workflow.<br>
+    🛠️ The <a href="https://github.com/TheAncientOwl/feather-core">FeatherCore plugin</a>, built with the <a href="https://github.com/TheAncientOwl/feather-toolkit">feather-toolkit</a>, demonstrates its full potential.<br>
+</p>
 
 ---
 
@@ -222,9 +228,11 @@ If there's a better way to do it, I'll figure it out.
 
 ### 📌 Summary
 
-🌙 **LunarDB** is a flexible and scalable database management system, developed as part of my _Master's Degree Project_.
-🗂️ It provides versatile data handling, normalization options, high performance, and a developer-friendly API.
-✨ Supporting both structured and unstructured data, LunarDB is ideal for a wide range of applications.
+<p>
+    🌙 <b>LunarDB</b> is a flexible and scalable database management system, developed as part of my <i>Master's Degree Project</i>.<br>
+    🗂️ It provides versatile data handling, normalization options, high performance, and a developer-friendly API.<br>
+    ✨ Supporting both structured and unstructured data, LunarDB is ideal for a wide range of applications.<br>
+</p>
 
 ---
 
@@ -255,9 +263,11 @@ If there's a better way to do it, I'll figure it out.
 
 ### 📌 Summary
 
-🗂️ MangoAnalysis is a data analysis tool for CSV databases, developed as part of my _Bachelor's Degree Project_.
-📊 It features a user-friendly interface with powerful analysis techniques such as [Principal Components Analysis](https://en.wikipedia.org/wiki/Principal_component_analysis), [Factor Analysis](https://en.wikipedia.org/wiki/Factor_analysis), [Regression Models](https://en.wikipedia.org/wiki/Regression_analysis), and [more](https://github.com/TheAncientOwl/mango-analysis?tab=readme-ov-file#-modules).
-🛠️ Built using React, Electron, and Python Flask, this cross-platform application allows users to explore, visualize, and interpret data to uncover valuable insights.
-✨ Whether you're a researcher or analyst, MangoAnalysis helps you make informed decisions with ease.
+<p>
+    🗂️ <b>MangoAnalysis</b> is a data analysis tool for CSV databases, developed as part of my <i>Bachelor's Degree Project</i>.<br>
+    📊 It features a user-friendly interface with powerful analysis techniques such as <a href="https://en.wikipedia.org/wiki/Principal_component_analysis">Principal Components Analysis</a>, <a href="https://en.wikipedia.org/wiki/Factor_analysis">Factor Analysis</a>, <a href="https://en.wikipedia.org/wiki/Regression_analysis">Regression Models</a>, and <a href="https://github.com/TheAncientOwl/mango-analysis?tab=readme-ov-file#-modules">more</a>.<br>
+    🛠️ Built using React, Electron, and Python Flask, this cross-platform application allows users to explore, visualize, and interpret data to uncover valuable insights.<br>
+    ✨ Whether you're a researcher or analyst, MangoAnalysis helps you make informed decisions with ease.<br>
+</p>
 
 </div>
