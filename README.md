@@ -39,16 +39,16 @@ If there's a better way to do it, I'll figure it out.
 <table>
     <tr><h3>⚡️ Main Stack</h3></tr>
     <tr>
-        <td width="90px" align="center"><img src="badges/c.svg" title="C" alt="C" width="48" height="48" /><br>C</td>
+        <!-- <td width="90px" align="center"><img src="badges/c.svg" title="C" alt="C" width="48" height="48" /><br>C</td> -->
         <td width="90px" align="center"><img src="badges/cplusplus.svg" title="C++" alt="C++" width="48" height="48" /><br>C++</td>
         <td width="90px" align="center"><img src="badges/cmake.svg" title="CMake" alt="CMake" width="48" height="48" /><br>CMake</td>
         <td width="90px" align="center"><img src="badges/cpp-unit-testing.svg" title="Unit Testing with Google Test" alt="Unit Testing with Google Test" width="48" height="48" /><br>Google Test</td>
         <td width="90px" align="center"><img src="badges/python.svg" title="Python" alt="Python" width="48" height="48" /><br>Python</td>
+        <td width="90px" align="center"><img src="badges/git.svg" title="Git" alt="Git" width="48" height="48" /><br>Git</td>
     </tr>
     <tr>
-        <td width="90px" align="center"><img src="badges/git.svg" title="Git" alt="Git" width="48" height="48" /><br>Git</td>
         <td width="90px" align="center"><img src="badges/bash.svg" title="Bash" alt="Bash" width="48" height="48" /><br>Bash</td>
-        <!-- <td width="90px" align="center"><img src="badges/ubuntu.svg" title="Ubuntu" alt="Ubuntu" width="48" height="48" /><br>Ubuntu</td> -->
+        <td width="90px" align="center"><img src="badges/ubuntu.svg" title="Ubuntu" alt="Ubuntu" width="48" height="48" /><br>Ubuntu</td>
         <td width="90px" align="center"><img src="badges/linux.svg" title="Linux" alt="Linux" width="48" height="48" /><br>Linux</td>
         <td width="90px" align="center"><img src="badges/powershell.svg" title="PowerShell" alt="PowerShell" width="48" height="48" /><br>PowerShell</td>
         <td width="90px" align="center"><img src="badges/windows-11.svg" title="Windows" alt="Windows" width="48" height="48" /><br>Windows</td>
