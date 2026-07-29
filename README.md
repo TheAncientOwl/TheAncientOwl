@@ -19,7 +19,6 @@
             </td>
         </tr>
     </table>
-</div>
 
 # 💫 About Me
 
@@ -260,3 +259,5 @@ If there's a better way to do it, I'll figure it out.
 📊 It features a user-friendly interface with powerful analysis techniques such as [Principal Components Analysis](https://en.wikipedia.org/wiki/Principal_component_analysis), [Factor Analysis](https://en.wikipedia.org/wiki/Factor_analysis), [Regression Models](https://en.wikipedia.org/wiki/Regression_analysis), and [more](https://github.com/TheAncientOwl/mango-analysis?tab=readme-ov-file#-modules).
 🛠️ Built using React, Electron, and Python Flask, this cross-platform application allows users to explore, visualize, and interpret data to uncover valuable insights.
 ✨ Whether you're a researcher or analyst, MangoAnalysis helps you make informed decisions with ease.
+
+</div>
