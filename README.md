@@ -17,6 +17,11 @@
                 <img src="https://img.shields.io/badge/-Spotify-1DB954?logo=spotify&logoColor=white" alt="Spotify" />
             </a>
             </td>
+            <td align="center">
+            <a href="https://music.apple.com/ro/playlist/%F0%9D%92%AA%F0%9D%93%83-%F0%9D%92%9C%F0%9D%92%BE%F0%9D%93%87/pl.u-d2b0kylILEopPp3">
+                <img src="https://img.shields.io/badge/Apple%20Music-fa243c?logo=apple-music&logoColor=white" alt="Apple Music" />
+            </a>
+            </td>
         </tr>
     </table>
 
