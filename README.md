@@ -1,6 +1,6 @@
-<p align="center">
+<nobr align="center">
   <img src="./images/tech-stack.png" width="400" alt="Tech Stack Header" />
-</p>
+</nobr>
 
 |                                                                                                                                                                     |                                                                                                                                                                          |                                                                                                                                                                                                  |
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -26,16 +26,16 @@ If there's a better way to do it, I'll figure it out.
 
 **C / C++ & Systems**
 
-<p>
+<nobr>
   <img src="badges/c.svg" title="C" alt="C" width="40" height="40" />
   <img src="badges/cplusplus.svg" title="C++" alt="C++" width="40" height="40" />
   <img src="badges/cmake.svg" title="CMake" alt="CMake" width="40" height="40" />
   <img src="badges/cpp-unit-testing.svg" title="Unit Testing with Google Test" alt="Unit Testing with Google Test" width="40" height="40" />
-</p>
+</nobr>
 
 **Environment & CLI**
 
-<p>
+<nobr>
   <img src="badges/python.svg" title="Python" alt="Python" width="40" height="40" />
   <img src="badges/git.svg" title="Git" alt="Git" width="40" height="40" />
   <img src="badges/bash.svg" title="Bash" alt="Bash" width="40" height="40" />
@@ -43,23 +43,23 @@ If there's a better way to do it, I'll figure it out.
   <img src="badges/linux.svg" title="Linux" alt="Linux" width="40" height="40" />
   <img src="badges/powershell.svg" title="PowerShell" alt="PowerShell" width="40" height="40" />
   <img src="badges/windows-11.svg" title="Windows" alt="Windows" width="40" height="40" />
-</p>
+</nobr>
 
 ### 🎮 Hobbies Stack
 
 **Java & Minecraft**
 
-<p>
+<nobr>
   <img src="badges/java.svg" title="Java" alt="Java" width="40" height="40" />
   <img src="badges/java-unit-testing.svg" title="Unit Testing with JUnit" alt="Unit Testing with JUnit" width="40" height="40" />
   <img src="badges/mockito.svg" title="Unit testing with Mockito" alt="Mockito" width="40" height="40" />
   <img src="badges/papermc.svg" title="PaperMC" alt="PaperMC" width="40" height="40" />
   <img src="badges/minecraft.svg" title="Minecraft" alt="Minecraft" width="40" height="40" />
-</p>
+</nobr>
 
 **Rust & Web Tech**
 
-<p>
+<nobr>
   <img src="badges/rust.svg" title="Rust" alt="Rust" width="40" height="40" />
   <img src="badges/tauri.svg" title="Tauri" alt="Tauri" width="40" height="40" />
   <img src="badges/typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40" />
@@ -70,34 +70,34 @@ If there's a better way to do it, I'll figure it out.
   <img src="badges/redux.svg" title="Redux" alt="Redux" width="40" height="40" />
   <img src="badges/chakra-ui.svg" title="ChakraUI" alt="ChakraUI" width="40" height="40" />
   <img src="badges/vite.svg" title="Vite" alt="Vite" width="40" height="40" />
-</p>
+</nobr>
 
 ### 🧰 Other Tech
 
 **JS & Node Runtimes**
 
-<p>
+<nobr>
   <img src="badges/electron.svg" title="ElectronJS" alt="ElectronJS" width="40" height="40" />
   <img src="badges/nodejs.svg" title="NodeJS" alt="NodeJS" width="40" height="40" />
   <img src="badges/threejs.svg" title="ThreeJS" alt="ThreeJS" width="40" height="40" />
   <img src="badges/express.svg" title="Express" alt="Express" width="40" height="40" />
   <img src="badges/webpack.svg" title="Webpack" alt="Webpack" width="40" height="40" />
-</p>
+</nobr>
 
 **UI & Styling**
 
-<p>
+<nobr>
   <img src="badges/materialui.svg" title="MaterialUI" alt="MaterialUI" width="40" height="40" />
   <img src="badges/sass.svg" title="Sass" alt="Sass" width="40" height="40" />
   <img src="badges/bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40" />
   <img src="badges/bulma.svg" title="BulmaCSS" alt="BulmaCSS" width="40" height="40" />
   <img src="badges/tailwindcss.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40" />
   <img src="badges/styled-components.svg" title="StyledComponents" alt="StyledComponents" width="40" height="40" />
-</p>
+</nobr>
 
 **Data, ML & GameDev**
 
-<p>
+<nobr>
   <img src="badges/csharp.svg" title="CSharp" alt="CSharp" width="40" height="40" />
   <img src="badges/unity.svg" title="Unity" alt="Unity" width="40" height="40" />
   <img src="badges/dotnetcore.svg" title=".Net Core" alt=".Net Core" width="40" height="40" />
@@ -105,11 +105,11 @@ If there's a better way to do it, I'll figure it out.
   <img src="badges/numpy.svg" title="NumPy" alt="NumPy" width="40" height="40" />
   <img src="badges/pandas.svg" title="Pandas" alt="Pandas" width="40" height="40" />
   <img src="badges/scikit-learn.svg" title="SciKit-Learn" alt="SciKit-Learn" width="40" height="40" />
-</p>
+</nobr>
 
 **Mobile & Utilities**
 
-<p>
+<nobr>
   <img src="badges/kotlin.svg" title="Kotlin" alt="Kotlin" width="40" height="40" />
   <img src="badges/android.svg" title="Android" alt="Android" width="40" height="40" />
   <img src="badges/docker.svg" title="Docker" alt="Docker" width="40" height="40" />
@@ -117,7 +117,7 @@ If there's a better way to do it, I'll figure it out.
   <img src="badges/oracle.svg" title="OracleSQL" alt="OracleSQL" width="40" height="40" />
   <img src="badges/matlab.svg" title="Matlab" alt="Matlab" width="40" height="40" />
   <img src="badges/r.svg" title="R" alt="R" width="40" height="40" />
-</p>
+</nobr>
 
 ---
 
@@ -129,25 +129,25 @@ If there's a better way to do it, I'll figure it out.
 
 **Book of Frets X Stack**
 
-<p>
+<nobr>
   <img src="badges/typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40" />
   <img src="badges/astro.svg" title="Astro" alt="Astro" width="40" height="40" />
   <img src="badges/tailwindcss.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40" />
   <img src="badges/html5.svg" title="HTML5" alt="HTML5" width="40" height="40" />
   <img src="badges/css3.svg" title="CSS3" alt="CSS3" width="40" height="40" />
   <img src="badges/vite.svg" title="Vite" alt="Vite" width="40" height="40" />
-</p>
+</nobr>
 
 **Book of Frets Stack**
 
-<p>
+<nobr>
   <img src="badges/typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40" />
   <img src="badges/react.svg" title="React" alt="React" width="40" height="40" />
   <img src="badges/react-router.svg" title="React Router" alt="React Router" width="40" height="40" />
   <img src="badges/zustand.svg" title="Zustand" alt="Zustand" width="40" height="40" />
   <img src="badges/chakra-ui.svg" title="Chakra UI" alt="Chakra UI" width="40" height="40" />
   <img src="badges/vite.svg" title="Vite" alt="Vite" width="40" height="40" />
-</p>
+</nobr>
 
 ### 📌 Summary
 
@@ -167,7 +167,7 @@ If there's a better way to do it, I'll figure it out.
 
 **OopsieLogsy Stack**
 
-<p>
+<nobr>
   <img src="badges/rust.svg" title="Rust" alt="Rust" width="40" height="40" />
   <img src="badges/tauri.svg" title="Tauri" alt="Tauri" width="40" height="40" />
   <img src="badges/typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40" />
@@ -175,7 +175,7 @@ If there's a better way to do it, I'll figure it out.
   <img src="badges/redux.svg" title="Redux" alt="Redux" width="40" height="40" />
   <img src="badges/chakra-ui.svg" title="Chakra UI" alt="Chakra UI" width="40" height="40" />
   <img src="badges/vite.svg" title="Vite" alt="Vite" width="40" height="40" />
-</p>
+</nobr>
 
 ### 📌 Summary
 
@@ -191,14 +191,14 @@ If there's a better way to do it, I'll figure it out.
 
 **Feather Stack**
 
-<p>
+<nobr>
   <img src="badges/java.svg" title="Java" alt="Java" width="40" height="40" />
   <img src="badges/java-unit-testing.svg" title="Unit Testing with JUnit" alt="Unit Testing with JUnit" width="40" height="40" />
   <img src="badges/mockito.svg" title="Unit testing with Mockito" alt="Mockito" width="40" height="40" />
   <img src="badges/papermc.svg" title="PaperMC" alt="PaperMC" width="40" height="40" />
   <img src="badges/minecraft.svg" title="Minecraft" alt="Minecraft" width="40" height="40" />
   <img src="badges/python.svg" title="Python" alt="Python" width="40" height="40" />
-</p>
+</nobr>
 
 ### 📌 Summary
 
@@ -214,14 +214,14 @@ If there's a better way to do it, I'll figure it out.
 
 **LunarDB Stack**
 
-<p>
+<nobr>
   <img src="badges/cplusplus.svg" title="C++" alt="C++" width="40" height="40" />
   <img src="badges/cmake.svg" title="CMake" alt="CMake" width="40" height="40" />
   <img src="badges/cpp-unit-testing.svg" title="Unit Testing with Google Test" alt="Unit Testing with Google Test" width="40" height="40" />
   <img src="badges/html5.svg" title="HTML5" alt="HTML5" width="40" height="40" />
   <img src="badges/css3.svg" title="CSS3" alt="CSS3" width="40" height="40" />
   <img src="badges/javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40" />
-</p>
+</nobr>
 
 ### 📌 Summary
 
@@ -237,18 +237,18 @@ If there's a better way to do it, I'll figure it out.
 
 **Backend & Analytics Stack**
 
-<p>
+<nobr>
   <img src="badges/python.svg" title="Python" alt="Python" width="40" height="40" />
   <img src="badges/anaconda.svg" title="Anaconda" alt="Anaconda" width="40" height="40" />
   <img src="badges/flask.svg" title="Flask" alt="Flask" width="40" height="40" />
   <img src="badges/numpy.svg" title="NumPy" alt="NumPy" width="40" height="40" />
   <img src="badges/pandas.svg" title="Pandas" alt="Pandas" width="40" height="40" />
   <img src="badges/scikit-learn.svg" title="SciKit-Learn" alt="SciKit-Learn" width="40" height="40" />
-</p>
+</nobr>
 
 **Frontend & Desktop Stack**
 
-<p>
+<nobr>
   <img src="badges/typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40" />
   <img src="badges/react.svg" title="React" alt="React" width="40" height="40" />
   <img src="badges/redux.svg" title="Redux" alt="Redux" width="40" height="40" />
@@ -256,7 +256,7 @@ If there's a better way to do it, I'll figure it out.
   <img src="badges/electron.svg" title="ElectronJS" alt="ElectronJS" width="40" height="40" />
   <img src="badges/nodejs.svg" title="NodeJS" alt="NodeJS" width="40" height="40" />
   <img src="badges/webpack.svg" title="Webpack" alt="Webpack" width="40" height="40" />
-</p>
+</nobr>
 
 ### 📌 Summary
 
