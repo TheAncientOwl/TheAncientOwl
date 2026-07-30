@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./images/cover-image-4.png" width="600" alt="Tech Stack Header" />
+    <img src="./images/cover-image-4.webp" width="600" alt="Tech Stack Header" />
     <table>
         <tr>
             <td align="center">
