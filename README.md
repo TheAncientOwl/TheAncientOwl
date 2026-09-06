@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./images/cover-image-4.webp" width="600" alt="Tech Stack Header" />
+    <img src="./images/cover-image-420.webp" width="600" alt="Tech Stack Header" />
     <table>
         <tr>
             <td align="center">
@@ -50,14 +50,15 @@
         <td width="90px" align="center"><img src="badges/cmake.svg" title="CMake" alt="CMake" width="48" height="48" /><br>CMake</td>
         <td width="90px" align="center"><img src="badges/cpp-unit-testing.svg" title="Unit Testing with Google Test" alt="Unit Testing with Google Test" width="48" height="48" /><br>Google Test</td>
         <td width="90px" align="center"><img src="badges/python.svg" title="Python" alt="Python" width="48" height="48" /><br>Python</td>
-        <td width="90px" align="center"><img src="badges/git.svg" title="Git" alt="Git" width="48" height="48" /><br>Git</td>
+        <td width="90px" align="center"><img src="badges/dear-imgui.jpeg" title="Dear ImGui" alt="Dear ImGui" width="48" height="48" /><br>Dear ImGui</td>
     </tr>
     <tr>
+        <td width="90px" align="center"><img src="badges/git.svg" title="Git" alt="Git" width="48" height="48" /><br>Git</td>
         <td width="90px" align="center"><img src="badges/bash.svg" title="Bash" alt="Bash" width="48" height="48" /><br>Bash</td>
         <td width="90px" align="center"><img src="badges/ubuntu.svg" title="Ubuntu" alt="Ubuntu" width="48" height="48" /><br>Ubuntu</td>
         <td width="90px" align="center"><img src="badges/linux.svg" title="Linux" alt="Linux" width="48" height="48" /><br>Linux</td>
         <td width="90px" align="center"><img src="badges/powershell.svg" title="PowerShell" alt="PowerShell" width="48" height="48" /><br>PowerShell</td>
-        <td width="90px" align="center"><img src="badges/windows-11.svg" title="Windows" alt="Windows" width="48" height="48" /><br>Windows</td>
+        <!-- <td width="90px" align="center"><img src="badges/windows-11.svg" title="Windows" alt="Windows" width="48" height="48" /><br>Windows</td> -->
     </tr>
 </table>
 
@@ -79,11 +80,12 @@
     </tr>
     <tr>
         <td width="90px" align="center"><img src="badges/react.svg" title="React" alt="React" width="48" height="48" /><br>React</td>
-        <td width="90px" align="center"><img src="badges/react-router.svg" title="React Router" alt="React Router" width="48" height="48" /><br>React Router</td>
         <td width="90px" align="center"><img src="badges/zustand.svg" title="Zustand" alt="Zustand" width="48" height="48" /><br>Zustand</td>
         <td width="90px" align="center"><img src="badges/redux.svg" title="Redux" alt="Redux" width="48" height="48" /><br>Redux</td>
         <td width="90px" align="center"><img src="badges/chakra-ui.svg" title="ChakraUI" alt="ChakraUI" width="48" height="48" /><br>Chakra UI</td>
+        <td width="90px" align="center"><img src="badges/sqlite.svg" title="SQLite" alt="SQLite" width="48" height="48" /><br>SQLite</td>
     </tr>
+
 </table>
 
 <table>
@@ -93,7 +95,7 @@
         <td width="90px" align="center"><img src="badges/nodejs.svg" title="NodeJS" alt="NodeJS" width="48" height="48" /><br>NodeJS</td>
         <td width="90px" align="center"><img src="badges/threejs.svg" title="ThreeJS" alt="ThreeJS" width="48" height="48" /><br>ThreeJS</td>
         <td width="90px" align="center"><img src="badges/express.svg" title="Express" alt="Express" width="48" height="48" /><br>Express</td>
-        <td width="90px" align="center"><img src="badges/webpack.svg" title="Webpack" alt="Webpack" width="48" height="48" /><br>Webpack</td>
+        <td width="90px" align="center"><img src="badges/react-router.svg" title="React Router" alt="React Router" width="48" height="48" /><br>React Router</td>
     </tr>
     <!-- **UI & Styling** -->
     <tr>
@@ -106,31 +108,58 @@
     <!-- **Data, ML & GameDev** -->
     <tr>
         <td width="90px" align="center"><img src="badges/styled-components.svg" title="StyledComponents" alt="StyledComponents" width="48" height="48" /><br>Styled Components</td>
+        <td width="90px" align="center"><img src="badges/webpack.svg" title="Webpack" alt="Webpack" width="48" height="48" /><br>Webpack</td>
         <td width="90px" align="center"><img src="badges/csharp.svg" title="CSharp" alt="CSharp" width="48" height="48" /><br>C#</td>
         <td width="90px" align="center"><img src="badges/unity.svg" title="Unity" alt="Unity" width="48" height="48" /><br>Unity</td>
         <td width="90px" align="center"><img src="badges/dotnetcore.svg" title=".Net Core" alt=".Net Core" width="48" height="48" /><br>.NET Core</td>
-        <td width="90px" align="center"><img src="badges/flask.svg" title="Flask" alt="Flask" width="48" height="48" /><br>Flask</td>
     </tr>
     <tr>
+        <td width="90px" align="center"><img src="badges/flask.svg" title="Flask" alt="Flask" width="48" height="48" /><br>Flask</td>
         <td width="90px" align="center"><img src="badges/numpy.svg" title="NumPy" alt="NumPy" width="48" height="48" /><br>NumPy</td>
         <td width="90px" align="center"><img src="badges/pandas.svg" title="Pandas" alt="Pandas" width="48" height="48" /><br>Pandas</td>
         <td width="90px" align="center"><img src="badges/scikit-learn.svg" title="SciKit-Learn" alt="SciKit-Learn" width="48" height="48" /><br>SciKit-Learn</td>
+        <td width="90px" align="center"><img src="badges/docker.svg" title="Docker" alt="Docker" width="48" height="48" /><br>Docker</td>
     <!-- **Mobile & Utilities** -->
-        <td width="90px" align="center"><img src="badges/kotlin.svg" title="Kotlin" alt="Kotlin" width="48" height="48" /><br>Kotlin</td>
-        <td width="90px" align="center"><img src="badges/android.svg" title="Android" alt="Android" width="48" height="48" /><br>Android</td>
     </tr>
     <tr>
-        <td width="90px" align="center"><img src="badges/docker.svg" title="Docker" alt="Docker" width="48" height="48" /><br>Docker</td>
+        <td width="90px" align="center"><img src="badges/kotlin.svg" title="Kotlin" alt="Kotlin" width="48" height="48" /><br>Kotlin</td>
+        <td width="90px" align="center"><img src="badges/android.svg" title="Android" alt="Android" width="48" height="48" /><br>Android</td>
         <td width="90px" align="center"><img src="badges/mongodb.svg" title="MongoDB" alt="MongoDB" width="48" height="48" /><br>MongoDB</td>
         <td width="90px" align="center"><img src="badges/oracle.svg" title="OracleSQL" alt="OracleSQL" width="48" height="48" /><br>OracleSQL</td>
-        <td width="90px" align="center"><img src="badges/matlab.svg" title="Matlab" alt="Matlab" width="48" height="48" /><br>Matlab</td>
+        <!-- <td width="90px" align="center"><img src="badges/matlab.svg" title="Matlab" alt="Matlab" width="48" height="48" /><br>Matlab</td> -->
         <td width="90px" align="center"><img src="badges/r.svg" title="R" alt="R" width="48" height="48" /><br>R</td>
     </tr>
+
 </table>
 
 ---
 
 # 🦉 Owl's Workshop
+
+## ⚡ 🪵 Fluxion
+
+[⚡ 🪵 Fluxion](https://github.com/TheAncientOwl/fluxion)
+
+<table>
+    <tr><h3>🛠️ Tech Stack</h3></tr>
+    <tr>
+        <td width="90px" align="center"><img src="badges/cplusplus.svg" title="C++" alt="C++" width="48" height="48" /><br>C++</td>
+        <td width="90px" align="center"><img src="badges/cmake.svg" title="CMake" alt="CMake" width="48" height="48" /><br>CMake</td>
+        <td width="90px" align="center"><img src="badges/cpp-unit-testing.svg" title="Google Test" alt="Google Test" width="48" height="48" /><br>Google Test</td>
+        <td width="90px" align="center"><img src="badges/dear-imgui.jpeg" title="Dear ImGui" alt="Dear ImGui" width="48" height="48" /><br>Dear ImGui</td>
+        <td width="90px" align="center"><img src="badges/sqlite.svg" title="SQLite3" alt="SQLite3" width="48" height="48" /><br>SQLite3</td>
+    </tr>
+</table>
+
+### 📌 Summary
+
+<p>
+    ⚡ <b>Fluxion</b> is a lightning-fast, high-performance cross-platform log viewer built to effortlessly handle and analyze massive log files.<br>
+    🔌 Designed with a modular architecture, it separates its rendering interface from heavy-lifting logic through a robust <b>plugin API</b>.<br>
+    🚀 Leverages memory-mapped I/O, parallel worker threads with <b>Google RE2</b>, and custom file segmentation for zero-lag navigation across gigabytes of data.<br>
+</p>
+
+---
 
 ## 🎸 Book of Frets
 
