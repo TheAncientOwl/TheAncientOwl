@@ -144,10 +144,10 @@
     <tr><h3>🛠️ Tech Stack</h3></tr>
     <tr>
         <td width="90px" align="center"><img src="badges/cplusplus.svg" title="C++" alt="C++" width="48" height="48" /><br>C++</td>
-        <td width="90px" align="center"><img src="badges/cmake.svg" title="CMake" alt="CMake" width="48" height="48" /><br>CMake</td>
-        <td width="90px" align="center"><img src="badges/cpp-unit-testing.svg" title="Google Test" alt="Google Test" width="48" height="48" /><br>Google Test</td>
         <td width="90px" align="center"><img src="badges/dear-imgui.jpeg" title="Dear ImGui" alt="Dear ImGui" width="48" height="48" /><br>Dear ImGui</td>
         <td width="90px" align="center"><img src="badges/sqlite.svg" title="SQLite3" alt="SQLite3" width="48" height="48" /><br>SQLite3</td>
+        <td width="90px" align="center"><img src="badges/cpp-unit-testing.svg" title="Google Test" alt="Google Test" width="48" height="48" /><br>Google Test</td>
+        <td width="90px" align="center"><img src="badges/cmake.svg" title="CMake" alt="CMake" width="48" height="48" /><br>CMake</td>
     </tr>
 </table>
 
