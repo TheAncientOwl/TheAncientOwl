@@ -252,7 +252,7 @@
 <table>
     <tr><h3>🛠️ Tech Stack</h3></tr>
     <tr>
-        <td width="90px" align="center"><img src="badges/cplusplus.svg" title="C++" alt="C++" width="48" height="48" /><br>C++</td>
+        <td width="90px" align="center"><img src="badges/cplusplus.svg" title="C++" alt="C++" width="48" height="48" /><br>C++20</td>
         <td width="90px" align="center"><img src="badges/cmake.svg" title="CMake" alt="CMake" width="48" height="48" /><br>CMake</td>
         <td width="90px" align="center"><img src="badges/cpp-unit-testing.svg" title="Unit Testing with Google Test" alt="Unit Testing with Google Test" width="48" height="48" /><br>Google Test</td>
         <td width="90px" align="center"><img src="badges/html5.svg" title="HTML5" alt="HTML5" width="48" height="48" /><br>HTML5</td>
